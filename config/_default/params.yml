@@ -10,3 +10,17 @@ options:
   enableMultiLang: true
   showMetaTags: true
 darkModeTheme: data-dark-mode
+umami:
+  enable: true
+  website_id: 4dfaca23-3ced-451a-9ee6-fe4019e12711
+  url: https://umami-five-ruby.vercel.app/vacat-ladder
+comments:
+  giscus:
+    enable: true
+    repo: vacat/vacat.github.io
+    repo_id: R_kgDOOBbI9Q
+    category: General
+    category_id: DIC_kwDOOBbI9c4CndRX
+    mapping: pathname
+    position: top
+    lang: zh-CN # pick a language from https://github.com/giscus/giscus/tree/main/locales
