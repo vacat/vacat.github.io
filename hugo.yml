@@ -1,0 +1,5 @@
+baseURL: 'https://vacat.github.io'
+homepage: 'https://vacat.github.io'
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+theme: 'hugo-theme-ladder-skycatc'

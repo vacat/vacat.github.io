@@ -1,0 +1,8 @@
+brand: HOME # 修改默认的为自己网站的标志
+#avatarURL: /images/avatar.png #网站主页的照片信息，你可以在根目录 /static/images/ 里面替换成自己的照片
+author: Jianqiang Cao # 修改你自己的名字
+authorDescription: # 修改对你自己的描述
+info:  # 修改对你自己网站描述
+#favicon: /images/avatar.png #网站的 icon，你可以在根目录 /static/images/ 里面替换成自己的照片
+options:
+  showDarkMode: true # 是否支持黑暗模式

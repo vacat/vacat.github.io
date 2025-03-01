@@ -1,0 +1,7 @@
+services:
+  googleAnalytics:
+    ID: G-S9WHVCCBM3
+  umami:
+    enable: true
+    website_id: 4dfaca23-3ced-451a-9ee6-fe4019e12711
+    url: https://umami-five-ruby.vercel.app/vacat-ladder
