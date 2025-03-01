@@ -10,10 +10,11 @@ options:
   enableMultiLang: true
   showMetaTags: true
 darkModeTheme: data-dark-mode
-umami:
-  enable: true
-  website_id: 4dfaca23-3ced-451a-9ee6-fe4019e12711
-  url: https://umami-five-ruby.vercel.app/vacat-ladder
+analytics:
+  umami:
+    enable: true
+    website_id: 4dfaca23-3ced-451a-9ee6-fe4019e12711
+    url: https://umami-five-ruby.vercel.app/vacat-ladder
 comments:
   giscus:
     enable: true
