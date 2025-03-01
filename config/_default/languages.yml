@@ -1,33 +1,19 @@
 en:
-  languageName: English
-  menu:
-    main:
-      - name: Blog
-        url: /blog
-        weight: 1
-      - name: Art
-        url: /art
-        weight: 2
-      - name: Tags
-        url: /tags
-        weight: 3
-      - name: Archive
-        url: /archives
-        weight: 4
-      - name: Guest
-        url: /guestbook
-        weight: 5
-      - name: Monitor
-        url: https://umami-five-ruby.vercel.app/share/LZBeTsMNrOU5Jtdc/vacat.github.io
-        weight: 6
+  languageName: EN
+  languageCode: en-US
+  disabled: false
+  weight: 1
 zh:
-  languageName: 中文
-  #author: Ladder 主题
-  #authorDescription: 一个美观，快速并且专注于阅读的主题
-  #info: 帮助开发者构建一个免费并且漂亮的博客网站，记录自己的思考并且提高自己的影响力
-  #guestbook:
-    #  title: 留言板
-    #  description: 您的评论，会让该网站更精彩！
+  languageName: 中
+  languageCode: zh-CN
+  disabled: false
+  weight: 2
+  author: Ladder 主题
+  authorDescription: 一个美观，快速并且专注于阅读的主题
+  info: 帮助开发者构建一个免费并且漂亮的博客网站，记录自己的思考并且提高自己的影响力
+  guestbook:
+    title: 留言板
+    description: 您的评论，会让该网站更精彩！
   menu:
     main:
       - name: 文章
@@ -41,10 +27,10 @@ zh:
         weight: 3
       - name: 历史
         url: /archives
-        weight: 3
-      - name: 留言板
-        url: /guestbook
         weight: 4
+      #- name: 留言板
+      #  url: /guestbook
+      #  weight: 4
       - name: 统计
         url: https://umami-five-ruby.vercel.app/share/LZBeTsMNrOU5Jtdc/vacat.github.io
         weight: 5

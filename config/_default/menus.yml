@@ -1,0 +1,19 @@
+main:
+  - name: Blog
+    url: /blog
+    weight: 1
+  - name: Art
+    url: /art
+    weight: 2
+  - name: Tags
+    url: /tags
+    weight: 3
+  - name: Archive
+    url: /archives
+    weight: 4
+  #- name: Guest
+  #  url: /guestbook
+  #  weight: 5
+  - name: Monitor
+    url: https://umami-five-ruby.vercel.app/share/LZBeTsMNrOU5Jtdc/vacat.github.io
+    weight: 6

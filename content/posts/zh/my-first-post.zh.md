@@ -1,12 +1,12 @@
 ---
-title: my first post
+title: 我的第一篇帖子
 date: 2025-03-01T17:26:56+08:00
 tags: []
 series: []
 featured: true
 ---
-Here is summary.
+这里是总结。
 
 <!--more-->
 
-here is your content.
+这是你的内容。

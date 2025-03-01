@@ -6,3 +6,7 @@ info:  # 修改对你自己网站描述
 #favicon: /images/avatar.png #网站的 icon，你可以在根目录 /static/images/ 里面替换成自己的照片
 options:
   showDarkMode: true # 是否支持黑暗模式
+  enableImgZooming: true
+  enableMultiLang: true
+  showMetaTags: true
+darkModeTheme: data-dark-mode
