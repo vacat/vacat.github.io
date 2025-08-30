@@ -4,6 +4,7 @@ date: 2025-08-27T00:00:00+08:00
 draft: false
 tags: ["earnings", "meituan", "internet", "instant-retail"]
 categories: ["business-analysis"]
+featured: true
 summary: "In-depth analysis of Meituan's Q2 2025 core metrics, showing steady revenue growth but profits impacted by competition, with instant retail daily orders peaking at 150 million"
 ---
 

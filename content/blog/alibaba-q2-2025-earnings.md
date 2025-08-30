@@ -10,7 +10,7 @@ summary: "In-depth analysis of Alibaba's Q2 2025 core data, showing solid revenu
 
 # Alibaba Earnings Insight - Q2 2025 Core Data Analysis
 
-> Published: August 30, 2025
+> Published: August 29, 2025
 
 ## Key Insights
 
