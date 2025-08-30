@@ -1,6 +1,6 @@
 baseURL: 'https://vacat.github.io'
 homepage: 'https://vacat.github.io'
-defaultContentLanguage: 'en'
+defaultContentLanguage: 'zh'
 defaultContentLanguageInSubdir: true
 # languageCode: 'en-us'
 title: '朝花夕拾'

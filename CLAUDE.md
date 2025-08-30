@@ -24,17 +24,33 @@ hugo --minify          # 构建并压缩输出
 ```bash
 hugo new blog/post-name.md     # 创建新博客文章
 hugo new blog/zh/post-name.zh.md  # 创建中文博客文章
+hugo new blog/zh/post-name.md --kind blog # 使用blog原型创建
+```
+
+### 实用命令
+```bash
+hugo list drafts              # 列出所有草稿文章
+hugo list future              # 列出未来发布的文章
+hugo --cleanDestinationDir    # 构建前清理目标目录
+hugo --buildDrafts            # 构建包含草稿内容
+hugo --buildFuture            # 构建包含未来发布的文章
 ```
 
 ## 项目架构
 
 ### 配置文件结构
-- `hugo.yml` - 根配置文件，包含基本站点设置
+- `hugo.yml` - 根配置文件，包含基本站点设置（URL、主题、默认语言）
 - `config/_default/` - 默认配置目录
-  - `hugo.yml` - 主要配置（Google Analytics、分类等）
-  - `languages.yml` - 多语言配置，定义中英文界面
-  - `params.yml` - 主题参数（作者信息、评论系统、统计工具等）
+  - `hugo.yml` - 主要配置（Google Analytics、分类taxonomies等）
+  - `languages.yml` - 多语言配置，定义中英文界面和菜单
+  - `params.yml` - 主题参数（作者信息、评论系统Giscus、统计工具Umami等）
   - `menus.yml` - 导航菜单配置
+
+### 重要配置说明
+- **默认语言**: 中文 (`zh`)，英文内容在子目录中
+- **评论系统**: 使用Giscus（基于GitHub Discussions）
+- **网站统计**: 使用Umami进行访问统计
+- **主题特性**: 支持暗色模式、图片缩放、多语言
 
 ### 内容结构
 - `content/blog/` - 英文博客文章
@@ -43,8 +59,14 @@ hugo new blog/zh/post-name.zh.md  # 创建中文博客文章
 - `static/` - 静态资源（图片等）
 
 ### 主题系统
-- `themes/hugo-theme-ladder-skycatc/` - 自定义主题
+- `themes/hugo-theme-ladder-skycatc/` - 自定义主题（主主题）
+- `themes/hugo-theme-ladder/` - 原始Ladder主题（作为参考）
 - `themes/ananke/` - 备用主题（目前未使用）
+- 所有主题都通过Git子模块管理，更新命令：
+  ```bash
+  git submodule update --init --recursive
+  git submodule update --remote
+  ```
 
 ### 关键特性
 - 双语支持（中文优先，英文为辅）
@@ -57,6 +79,10 @@ hugo new blog/zh/post-name.zh.md  # 创建中文博客文章
 ### 部署
 - 使用GitHub Pages部署到 `https://vacat.github.io`
 - 构建输出到 `public/` 目录
+- 自动部署通过GitHub Actions工作流（`.github/workflows/hugo.yaml`）
+  - 在main分支push时自动触发
+  - 使用Hugo 0.145.0版本构建
+  - 包含GC清理和minify压缩
 
 ## 开发注意事项
 
