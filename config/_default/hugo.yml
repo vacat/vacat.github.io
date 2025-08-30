@@ -1,3 +1,6 @@
 services:
   googleAnalytics:
     ID: G-S9WHVCCBM3
+taxonomies:
+  series: series
+  tag: tags

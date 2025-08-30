@@ -3,5 +3,5 @@ homepage: 'https://vacat.github.io'
 defaultContentLanguage: 'en'
 defaultContentLanguageInSubdir: true
 # languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: '朝花夕拾'
 theme: 'hugo-theme-ladder-skycatc'
