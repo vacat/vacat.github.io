@@ -1,14 +1,18 @@
 ---
-title: "AI 博客每日精选 — 2026年2月28日"
-date: 2026-02-28T18:00:00+08:00
-tags: [文章摘要, 日报]
+title: "文章摘要日报 - 2026年2月28日"
+date: 2026-02-28T09:30:00+08:00
+tags: [文章摘要, 日报, AI, Anthropic, Gemini, 安全]
 series: []
 featured: true
 ---
 
-来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 25
+今天的技术圈主要围绕两大主题：AI伦理与政府关系的紧张局势持续升温，Anthropic明确拒绝配合国防部需求，五角大楼与AI公司之间的信任危机引发行业反思；另一方面，AI编程代理在近两个月实现质的飞跃，模型长期一致性和复杂任务处理能力大幅提升，使得自动化测试和"vibe coding"等新型开发范式快速普及，但行业同质化隐忧也日益凸显。
 
 <!--more-->
+
+# 📰 AI 博客每日精选 — 2026-02-28
+
+> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 25
 
 ## 📝 今日看点
 
@@ -18,7 +22,7 @@ featured: true
 
 ## 🏆 今日必读
 
-### 🥇 给达里奥的饼干？— Anthropic 与出售死亡
+🥇 **给达里奥的饼干？— Anthropic 与出售死亡**
 
 [A Cookie for Dario? — Anthropic and selling death](https://anildash.com/2026/02/27/a-cookie-for-dario/) — anildash.com · 1 小时前 · 🤖 AI / ML
 
@@ -28,7 +32,7 @@ featured: true
 
 🏷️ Anthropic, Claude, Pentagon, AI ethics
 
-### 🥈 Google API 密钥曾不是秘密。但 Gemini 改变了规则
+🥈 **Google API 密钥曾不是秘密。但 Gemini 改变了规则**
 
 [Google API Keys Weren't Secrets. But then Gemini Changed the Rules.](https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything) — simonwillison.net · 1 天前 · 🔒 安全
 
@@ -38,7 +42,7 @@ featured: true
 
 🏷️ Google API, security, vulnerability, Gemini
 
-### 🥉 先运行测试
+🥉 **先运行测试**
 
 [First run the tests](https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything) — simonwillison.net · 3 天前 · ⚙️ 工程
 
@@ -56,30 +60,9 @@ featured: true
 |:---:|:---:|:---:|:---:|
 | 88/92 | 2483 篇 → 161 篇 | 168h | **25 篇** |
 
-### 分类分布
-
-| 分类 | 数量 |
-|------|------|
-| 🤖 AI / ML | 14 |
-| ⚙️ 工程 | 5 |
-| 🔒 安全 | 3 |
-| 🛠 工具 / 开源 | 2 |
-| 💡 观点 / 杂谈 | 1 |
-
-### 高频关键词
-
-- **llm**: 5 次
-- **anthropic**: 4 次
-- **security**: 3 次
-- **ai coding**: 3 次
-- **claude**: 2 次
-- **pentagon**: 2 次
-- **productivity**: 2 次
-- **software development**: 2 次
-
 ### 🏷️ 话题标签
 
-llm · anthropic · security · ai coding · claude · pentagon · productivity · software development · agentic engineering · ai agents · coding · ai agent · open source · regulation · ai ethics · google api · vulnerability · gemini · automated testing · software quality
+**llm**(5) · **anthropic**(4) · **security**(3) · ai coding(3) · claude(2) · pentagon(2) · productivity(2) · software development(2) · agentic engineering(2) · ai agents(2) · coding(2) · ai agent(2) · open source(2) · regulation(2) · ai ethics(1) · google api(1) · vulnerability(1) · gemini(1) · automated testing(1) · software quality(1)
 
 ---
 
@@ -345,4 +328,4 @@ llm · anthropic · security · ai coding · claude · pentagon · productivity 
 
 *生成于 2026-02-28 01:22 | 扫描 88 源 → 获取 2483 篇 → 精选 25 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
-*由「懂点儿AI」制作*
+*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
