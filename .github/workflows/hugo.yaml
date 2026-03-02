@@ -60,6 +60,28 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      # ========== 新增：注入 Mermaid 支持 ==========
+      - name: Inject Mermaid Support
+        run: |
+          # 定义要注入的 Mermaid 脚本（使用 ES Module 方式）
+          MERMAID_SCRIPT='<script type="module">import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";mermaid.initialize({startOnLoad:false,theme:"default"});await mermaid.run({querySelector:".language-mermaid"});</script>'
+
+          # 查找所有包含 mermaid 代码块的 HTML 文件并在 </body> 前注入脚本
+          find ./public -name "*.html" -type f -exec grep -l "language-mermaid" {} \; | while read -r file; do
+            # 在 </body> 标签前注入脚本（如果不存在则尝试 </html>）
+            if grep -q "</body>" "$file"; then
+              sed -i "s|</body>|${MERMAID_SCRIPT}</body>|" "$file"
+            elif grep -q "</html>" "$file"; then
+              sed -i "s|</html>|${MERMAID_SCRIPT}</html>|" "$file"
+            fi
+            echo "Injected Mermaid into: $file"
+          done
+
+          # 可选：统计处理的文件数
+          count=$(find ./public -name "*.html" -type f -exec grep -l "language-mermaid" {} \; | wc -l)
+          echo "Total files with Mermaid diagrams: $count"
+      # =============================================
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
