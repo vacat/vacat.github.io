@@ -6,3 +6,8 @@ exampleSite/resources/
 *.lock
 public/
 resources/
+
+# Node.js
+.mcp.json
+package.json
+package-lock.json
