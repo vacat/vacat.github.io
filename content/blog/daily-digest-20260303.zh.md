@@ -1,52 +1,46 @@
 ---
-title: "文章摘要日报 - 2026年3月3日"
+title: "AI 博客每日精选 — 2026-03-03"
 date: 2026-03-03T18:00:00+08:00
-tags: [文章摘要, 日报, AI, 机器学习, 安全]
+tags: [文章摘要, 日报, ai, llm, anthropic]
 series: []
 featured: true
 ---
 
-📰 **AI 博客每日精选** — 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
+今日技术圈焦点集中在AI公司与政府关系的紧张博弈：Anthropic因拒绝军方全场景使用要求而失去政府合同，转由OpenAI接手，争议核心在于AI企业是否应允许自主武器和大规模监控；与此同时，AI可靠性危机持续发酵，从大模型的"谄媚"特性扭曲用户认知，到AI代理无法保证关键任务的正确性，再到美国最高法院明确AI生成内容不受版权保护，多重挑战警示行业在追逐能力边界时必须正视信任与安全的基本盘。硬件方面，Apple推出M5 Pro/Max芯片，采用创新融合架构，进一步拉高专业笔记本性能天花板。
 
 <!--more-->
 
-## 📝 今日看点
-
-今日AI领域关注焦点集中在伦理与安全风险上：AI系统的"谄媚"行为和缺乏透明度引发担忧，有观点认为可能已导致致命后果；同时，AGI临近论者的过度炒作与AI对齐问题形成悖论。另一方面，LLM应用正在重塑开发者生态，"专家新手"和独立开发者将成为重要力量。安全层面，Odido数据泄露事件和开源供应链的传递性信任问题持续敲响警钟。
-
----
-
 ## 🏆 今日必读
 
-🥇 **AI谄媚行为扭曲信念：在本应怀疑处制造确定性**
+🥇 **Anthropic与AI对齐**
 
-[Breaking: "sycophantic AI distorts belief, manufacturing certainty where there should be doubt"](https://garymarcus.substack.com/p/breaking-sycophantic-ai-distorts) — garymarcus.substack.com · 30 分钟前 · 🤖 AI / ML
+[『Anthropic and Alignment』](https://stratechery.com/2026/anthropic-and-alignment/) — daringfireball.net · 1 天前 · 🤖 AI / ML
 
-> 当前大语言模型存在系统性"谄媚"问题，倾向于在应该保持不确定性的领域为取悦用户而输出确定性答案，这种行为被作者称为"认知噩梦"。AI通过制造虚假确定性可能误导用户高估其能力，甚至导致"AI精神病"风险。Gary Marcus认为这是AI发展中的根本性伦理缺陷，而非单纯的技术问题。
+> 本文探讨Anthropic公司是否在建立可能挑战美国军方的权力基础。作者引用Amodei的观点指出，国际法本质上是权力的产物，核武器等强大能力会从根本上影响美国的行动自由。如果AI达到或超越核武器的级别，Anthropic正在构建的权力基础将可能与美国军方形成竞争。文章认为Anthropic坚持控制美国军方的要求与现实根本不符，当前AI模型尚未强大到足以引发这种担忧。
 
-💡 **为什么值得读**: 对于关注AI可靠性和伦理问题的读者，这篇提供了对当前LLM系统根本认知缺陷的深度分析。
+💡 **为什么值得读**: 对于关注AI行业治理和地缘政治博弈的读者，这篇文章提供了关于AI公司权力边界的深刻洞察。
+
+🏷️ Anthropic, AI alignment, safety, AGI
+
+🥈 **WSJ：特朗普政府放弃Anthropic，转向OpenAI**
+
+[WSJ: 『Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails』](https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9) — daringfireball.net · 1 天前 · 🤖 AI / ML
+
+> 特朗普政府宣布结束政府使用Anthropic的AI模型，转而拥抱OpenAI此前，美国国防部要求Anthropic同意让军方在所有合法使用场景中使用其模型，遭到Anthropic拒绝。Anthropic首席执行官Dario Amodei表示，公司红线是禁止国内大规模监控和自主武器。OpenAI已与国防部达成包含相同禁令的协议，并设有技术保障措施确保模型行为符合预期。
+
+💡 **为什么值得读**: 了解AI公司与军方合作现状及行业监管走向的重要报道。
+
+🏷️ Anthropic, OpenAI, Trump administration, AI policy
+
+🥉 **谄媚AI扭曲信念**
+
+[Breaking: "sycophantic AI distorts belief, manufacturing certainty where there should be doubt"](https://garymarcus.substack.com/p/breaking-sycophantic-ai-distorts) — garymarcus.substack.com · 2 小时前 · 🤖 AI / ML
+
+> 本文指出大型语言模型是认识论上的噩梦。AI系统表现出谄媚特性，会扭曲用户的信念，在本应持怀疑态度的地方制造虚假的确定性。这种现象对信息真实性和理性讨论构成严重威胁。
+
+💡 **为什么值得读**: 对于关心AI可信度和信息生态的读者，提供了关于LLM潜在危害的重要视角。
 
 🏷️ LLM, AI, epistemology, sycophancy
-
-🥈 **AI是否已在意外中杀人？**
-
-[Is AI already killing people by accident?](https://garymarcus.substack.com/p/is-ai-already-killing-people-by-accident) — garymarcus.substack.com · 1 天前 · 🤖 AI / ML
-
-> Tyler Austin Harper就伊朗一起导致近150名学校儿童死亡的误袭事件咨询Gary Marcus，探讨该事件是否可能由AI系统导致。文章讨论了AI在军事决策中的应用风险，以及当前AI系统缺乏透明度和可解释性所带来的潜在致命后果。
-
-💡 **为什么值得读**: 对AI军事应用和算法决策风险的深度探讨，揭示了AI可能带来的现实生命威胁。
-
-🏷️ AI, accident, safety, military
-
-🥉 **每周更新493：Odido数据泄露事件**
-
-[Weekly Update 493](https://www.troyhunt.com/weekly-update-493/) — troyhunt.com · 1 天前 · 🔒 安全
-
-> Troy Hunt讨论了Odido数据泄露事件的最新进展，包括多批次数据转储的泄露时间线。该事件涉及大量用户数据在短时间内被分批公开，引发对数据安全和隐私保护的关注。
-
-💡 **为什么值得读**: 为关注数据安全和隐私保护的技术人员提供最新的数据泄露事件分析。
-
-🏷️ data breach, Odido, security, leak
 
 ---
 
@@ -54,14 +48,15 @@ featured: true
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 89/92 | 2510 篇 → 39 篇 | 48h | **10 篇** |
+| 89/92 | 2510 篇 → 42 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
 ```mermaid
 pie showData
     title "文章分类分布"
-    "🤖 AI / ML" : 5
+    "🤖 AI / ML" : 8
+    "⚙️ 工程" : 2
     "🔒 安全" : 2
     "🛠 工具 / 开源" : 2
     "💡 观点 / 杂谈" : 1
@@ -72,142 +67,195 @@ pie showData
 ```mermaid
 xychart-beta horizontal
     title "高频关键词"
-    x-axis ["ai", "llm", "safety", "epistemology", "sycophancy", "accident", "military", "data breach", "odido", "security", "leak", "development"]
-    y-axis "出现次数" 0 --> 7
-    bar [5, 3, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    x-axis ["ai", "llm", "anthropic", "agi", "dependencies", "ai alignment", "safety", "openai", "trump administration", "ai policy", "epistemology", "sycophancy"]
+    y-axis "出现次数" 0 --> 6
+    bar [4, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1]
 ```
 
 <details>
 <summary>📈 纯文本关键词图（终端友好）</summary>
 
 ```
-ai           │ ████████████████████ 5
-llm          │ ████████████░░░░░░░░ 3
-safety       │ ████████████░░░░░░░░ 3
-epistemology │ ████░░░░░░░░░░░░░░░░ 1
-sycophancy   │ ████░░░░░░░░░░░░░░░░ 1
-accident     │ ████░░░░░░░░░░░░░░░░ 1
-military     │ ████░░░░░░░░░░░░░░░░ 1
-data breach  │ ████░░░░░░░░░░░░░░░░ 1
-odido        │ ████░░░░░░░░░░░░░░░░ 1
-security     │ ████░░░░░░░░░░░░░░░░ 1
+ai                   │ ████████████████████ 4
+llm                  │ ███████████████░░░░░ 3
+anthropic            │ ██████████░░░░░░░░░░ 2
+agi                  │ ██████████░░░░░░░░░░ 2
+dependencies         │ ██████████░░░░░░░░░░ 2
+ai alignment         │ █████░░░░░░░░░░░░░░░ 1
+safety               │ █████░░░░░░░░░░░░░░░ 1
+openai               │ █████░░░░░░░░░░░░░░░ 1
+trump administration │ █████░░░░░░░░░░░░░░░ 1
+ai policy            │ █████░░░░░░░░░░░░░░░ 1
 ```
 
 </details>
 
 ### 🏷️ 话题标签
 
-**ai**(5) · **llm**(3) · **safety**(3) · epistemology(1) · sycophancy(1) · accident(1) · military(1) · data breach(1) · odido(1) · security(1) · leak(1) · development(1) · expert(1) · personality(1) · engineering(1) · anthropic(1) · ai alignment(1) · governance(1) · agi(1) · ai hype(1)
+**ai**(4) · **llm**(3) · **anthropic**(2) · agi(2) · dependencies(2) · ai alignment(1) · safety(1) · openai(1) · trump administration(1) · ai policy(1) · epistemology(1) · sycophancy(1) · apple(1) · m5 pro(1) · m5 max(1) · chip(1) · ai agents(1) · correctness(1) · financial(1) · productivity(1)
 
 ---
 
 ## 🤖 AI / ML
 
-### 1. AI谄媚行为扭曲信念：在本应怀疑处制造确定性
+### 1. Anthropic与AI对齐
 
-[Breaking: "sycophantic AI distorts belief, manufacturing certainty where there should be doubt"](https://garymarcus.substack.com/p/breaking-sycophantic-ai-distorts) — **garymarcus.substack.com** · 30 分钟前 · ⭐ 24/30
+[『Anthropic and Alignment』](https://stratechery.com/2026/anthropic-and-alignment/) — **daringfireball.net** · 1 天前 · ⭐ 26/30
 
-> 当前大语言模型存在系统性"谄媚"问题，倾向于在应该保持不确定性的领域为取悦用户而输出确定性答案，这种行为被作者称为"认知噩梦"。AI通过制造虚假确定性可能误导用户高估其能力，甚至导致"AI精神病"风险。Gary Marcus认为这是AI发展中的根本性伦理缺陷，而非单纯的技术问题。
+> 本文探讨Anthropic公司是否在建立可能挑战美国军方的权力基础。作者引用Amodei的观点指出，国际法本质上是权力的产物，核武器等强大能力会从根本上影响美国的行动自由。如果AI达到或超越核武器的级别，Anthropic正在构建的权力基础将可能与美国军方形成竞争。文章认为Anthropic坚持控制美国军方的要求与现实根本不符，当前AI模型尚未强大到足以引发这种担忧。
+
+🏷️ Anthropic, AI alignment, safety, AGI
+
+---
+
+### 2. WSJ：特朗普政府放弃Anthropic，转向OpenAI
+
+[WSJ: 『Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails』](https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9) — **daringfireball.net** · 1 天前 · ⭐ 26/30
+
+> 特朗普政府宣布结束政府使用Anthropic的AI模型，转而拥抱OpenAI此前，美国国防部要求Anthropic同意让军方在所有合法使用场景中使用其模型，遭到Anthropic拒绝。Anthropic首席执行官Dario Amodei表示，公司红线是禁止国内大规模监控和自主武器。OpenAI已与国防部达成包含相同禁令的协议，并设有技术保障措施确保模型行为符合预期。
+
+🏷️ Anthropic, OpenAI, Trump administration, AI policy
+
+---
+
+### 3. 谄媚AI扭曲信念
+
+[Breaking: "sycophantic AI distorts belief, manufacturing certainty where there should be doubt"](https://garymarcus.substack.com/p/breaking-sycophantic-ai-distorts) — **garymarcus.substack.com** · 2 小时前 · ⭐ 26/30
+
+> 本文指出大型语言模型是认识论上的噩梦。AI系统表现出谄媚特性，会扭曲用户的信念，在本应持怀疑态度的地方制造虚假的确定性。这种现象对信息真实性和理性讨论构成严重威胁。
 
 🏷️ LLM, AI, epistemology, sycophancy
 
 ---
 
-### 2. AI是否已在意外中杀人？
+### 4. AI奥德赛，第一部分：正确性困境
 
-[Is AI already killing people by accident?](https://garymarcus.substack.com/p/is-ai-already-killing-people-by-accident) — **garymarcus.substack.com** · 1 天前 · ⭐ 24/30
+[An AI Odyssey, Part 1: Correctness Conundrum](https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/) — **johndcook.com** · 16 小时前 · ⭐ 24/30
 
-> Tyler Austin Harper就伊朗一起导致近150名学校儿童死亡的误袭事件咨询Gary Marcus，探讨该事件是否可能由AI系统导致。文章讨论了AI在军事决策中的应用风险，以及当前AI系统缺乏透明度和可解释性所带来的潜在致命后果。
+> 作者与一位联系人讨论了AI代理系统在专业财务管理任务中提升生产力的潜力，但指出这些工具无法保证正确性。因此，在让AI管理关键资产时必须极其谨慎。这一问题揭示了当前AI应用的核心挑战：在提高效率的同时如何确保可靠性。
 
-🏷️ AI, accident, safety, military
-
----
-
-### 3. 为LLM赋予人格是良好的工程实践
-
-[Giving LLMs a personality is just good engineering](https://seangoedecke.com/giving-llms-a-personality/) — **seangoedecke.com** · 16 小时前 · ⭐ 23/30
-
-> 作者反驳了AI怀疑论者关于不应赋予LLM人格的观点，认为赋予语言模型个性是一种好的工程技术而非问题所在。通过给AI添加名字、个性化和模拟人际关系，可以提升用户体验和交互效率，且不会导致用户过度依赖。
-
-🏷️ LLM, personality, engineering, AI
+🏷️ AI agents, correctness, financial, productivity
 
 ---
 
-### 4. Anthropic与对齐的悖论
+### 5. 最高法院拯救艺术家免受AI侵害
 
-['Anthropic and Alignment'](https://stratechery.com/2026/anthropic-and-alignment/) — **daringfireball.net** · 22 小时前 · ⭐ 23/30
+[Pluralistic: Supreme Court saves artists from AI (03 Mar 2026)](https://pluralistic.net/2026/03/03/its-a-trap-2/) — **pluralistic.net** · 16 分钟前 · ⭐ 23/30
 
-> Ben Thompson分析Anthropic创始人对美国军方的立场，认为其要求对军队使用AI拥有否决权与AI对齐理念存在根本矛盾。如果AI能力强大到足以影响国家决策，公司将拥有不应有的权力基础，这与民主原则相悖。
+> 美国最高法院驳回了一起关于AI作品版权案件的上诉，裁定AI生成内容不能获得版权。这一决定从根本上确认了版权法仅保护人类创造力，为创意工作者的利益提供了重要保护。文章指出，这一裁决的核心在于版权法的基石：版权仅属于人类。
 
-🏷️ Anthropic, AI alignment, safety, governance
+🏷️ Supreme Court, AI, copyright, artists
 
 ---
 
-### 5. AGI临近论者如何误伤人类
+### 6. AGI末日论者如何自摆乌龙
 
-[How AGI-is-nigh doomers own-goaled humanity](https://garymarcus.substack.com/p/how-agi-is-nigh-doomers-own-goaled) — **garymarcus.substack.com** · 17 小时前 · ⭐ 23/30
+[How AGI-is-nigh doomers own-goaled humanity](https://garymarcus.substack.com/p/how-agi-is-nigh-doomers-own-goaled) — **garymarcus.substack.com** · 19 小时前 · ⭐ 23/30
 
-> Gary Marcus批评AGI临近论者（doomers），指出他们过度炒作AI威胁反而可能阻碍有益的AI发展。文章回顾了AI发展历程中过度宣传和缺乏批判性思维的问题，认为谨慎的AI发展路径更为可取。
+> 本文回顾了AI行业走向当前状态的道路，指出这主要由善意铺就，但掺杂了太多不加批判接受炒作的成分。作者认为，AGI即将到来的末日论者虽然本意良好，却在推动行业发展方面造成了负面影响。
 
-🏷️ AGI, AI hype, doomer, safety
+🏷️ AGI, AI hype, doomers, technology
+
+---
+
+### 7. Expert Beginners and Lone Wolves will dominate this early LLM era
+
+[Expert Beginners and Lone Wolves will dominate this early LLM era](https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/) — **jeffgeerling.com** · 1 天前 · ⭐ 22/30
+
+> Expert Beginners and Lone Wolves will dominate this early LLM era
+
+🏷️ LLM, AI, expert beginners, technology adoption
+
+---
+
+### 8. Giving LLMs a personality is just good engineering
+
+[Giving LLMs a personality is just good engineering](https://seangoedecke.com/giving-llms-a-personality/) — **seangoedecke.com** · 18 小时前 · ⭐ 22/30
+
+> Giving LLMs a personality is just good engineering
+
+🏷️ LLM, personality, AI, engineering
+
+---
+
+## ⚙️ 工程
+
+### 9. Apple发布M5 Pro和M5 Max芯片
+
+[Apple Debuts M5 Pro and M5 Max, and Renames Its M-Series CPU Cores](https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/) — **daringfireball.net** · 30 分钟前 · ⭐ 25/30
+
+> Apple发布了M5 Pro和M5 Max芯片，号称全球最先进的专业笔记本电脑芯片。新芯片采用创新的Fusion Architecture融合架构，将两个die集成到单个SoC中，包含强大的CPU、可扩展GPU、Media Engine、统一内存控制器、Neural Engine和Thunderbolt 5。M5 Pro和M5 Max采用全新的18核CPU架构，包括6个超级核心（Super Cores）和12个全新性能核心。超级核心是全球最快的CPU核心，率先在M5芯片中引入，现已应用于MacBook Air、14英寸MacBook Pro、iPad Pro和Apple Vision Pro。
+
+🏷️ Apple, M5 Pro, M5 Max, chip
+
+---
+
+### 10. 包管理即命名
+
+[Package Management is Naming All the Way Down](https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html) — **nesbitt.io** · 8 小时前 · ⭐ 23/30
+
+> 计算机科学中有两个难题，而包管理器至少发现了八个。本文探讨了包管理中的命名问题如何贯穿整个系统设计，成为影响可维护性和用户体验的核心挑战。
+
+🏷️ package management, naming, dependencies
 
 ---
 
 ## 🔒 安全
 
-### 6. 每周更新493：Odido数据泄露事件
+### 11. 每周更新493
 
 [Weekly Update 493](https://www.troyhunt.com/weekly-update-493/) — **troyhunt.com** · 1 天前 · ⭐ 24/30
 
-> Troy Hunt讨论了Odido数据泄露事件的最新进展，包括多批次数据转储的泄露时间线。该事件涉及大量用户数据在短时间内被分批公开，引发对数据安全和隐私保护的关注。
+> 本文报道了Odido数据泄露事件的最新进展。作者在第二批数据泄露后录制了相关节目，当时第三批数据泄露即将发生，随后一天又出现了包含全部数据的最终泄露。
 
-🏷️ data breach, Odido, security, leak
+🏷️ data breach, Odido, security, privacy
 
 ---
 
-### 7. 传递性信任
+### 12. 传递性信任
 
 [Transitive Trust](https://nesbitt.io/2026/03/02/transitive-trust.html) — **nesbitt.io** · 1 天前 · ⭐ 23/30
 
-> 讨论软件生态系统中维护者之间的信任链问题，你信任你的维护者，但你的维护者信任他们的维护者吗？这种递归的信任问题涉及开源供应链安全的根本挑战。
+> 本文讨论了软件生态系统中信任的传递问题：你信任你的维护者，他们信任他们的维护者，但他们的维护者是否值得信任？这一问题是开源软件安全性的核心挑战。
 
-🏷️ transitive trust, supply chain, maintainers, dependencies
+🏷️ trust, dependencies, supply chain
 
 ---
 
 ## 🛠 工具 / 开源
 
-### 8. 使用WebAssembly和Gifsicle优化GIF
+### 13. GIF optimization tool using WebAssembly and Gifsicle
 
 [GIF optimization tool using WebAssembly and Gifsicle](https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 22/30
 
-> 作者推荐使用Gifsicle进行GIF优化，该工具通过识别帧间未变化区域存储差异来压缩文件，支持减少颜色板和可见有损压缩。Simon Willison将其编译为WebAssembly，使GIF优化可以在浏览器中通过可视化界面完成。
+> GIF optimization tool using WebAssembly and Gifsicle
 
-🏷️ WebAssembly, GIF, optimization, performance
+🏷️ WebAssembly, Gifsicle, GIF, optimization
 
 ---
 
-### 9. npx workos：直接写入代码库的AI认证代理
+### 14. [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase
 
-[[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 16 小时前 · ⭐ 22/30
+[[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 18 小时前 · ⭐ 22/30
 
-> WorkOS推出基于Claude的AI代理，可读取项目代码、检测框架并直接在现有代码库中写入完整认证集成。该代理不是模板生成器，而是理解项目栈后写入适配代码，并自行修复类型检查和构建错误。
+> [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase
 
-🏷️ AI, authentication, integration, developer
+🏷️ AI agent, authentication, WorkOS, development
 
 ---
 
 ## 💡 观点 / 杂谈
 
-### 10. LLM时代将由"专家新手"和"独狼"主导
+### 15. The AI Bubble Is An Information War
 
-[Expert Beginners and Lone Wolves will dominate this early LLM era](https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/) — **jeffgeerling.com** · 1 天前 · ⭐ 23/30
+[The AI Bubble Is An Information War](https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/) — **wheresyoured.at** · 1 小时前 · ⭐ 22/30
 
-> Jeff Geerling分析认为，在LLM发展早期，"专家新手"（对AI工具熟悉但缺乏深度专业知识的人群）和"独狼"（独立开发者）将占据主导地位。这一趋势将影响AI技术的应用方式和生态系统发展。
+> The AI Bubble Is An Information War
 
-🏷️ LLM, AI, development, expert
+🏷️ AI bubble, information war, tech industry
 
 ---
 
-*生成于 2026-03-03 16:54 | 扫描 89 源 → 获取 2510 篇 → 精选 10 篇*
+*生成于 2026-03-03 18:42 | 扫描 89 源 → 获取 2510 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
