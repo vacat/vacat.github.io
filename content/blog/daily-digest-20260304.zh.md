@@ -1,6 +1,6 @@
 ---
-title: "AI 博客每日精选 — 2026-03-03"
-date: 2026-03-04T18:00:00+08:00
+title: "文章摘要日报 - 2026年3月4日"
+date: 2026-03-04T14:26:00+08:00
 tags: [文章摘要, 日报, ai, llm, safety]
 series: []
 featured: true
@@ -9,8 +9,6 @@ featured: true
 今日AI领域关注焦点集中在伦理与安全风险上：AI系统的"谄媚"行为和缺乏透明度引发担忧，有观点认为可能已导致致命后果；同时，AGI临近论者的过度炒作与AI对齐问题形成悖论。另一方面，LLM应用正在重塑开发者生态，"专家新手"和独立开发者将成为重要力量。安全层面，Odido数据泄露事件和开源供应链的传递性信任问题持续敲响警钟。
 
 <!--more-->
-
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
 
 ## 🏆 今日必读
 
@@ -54,42 +52,20 @@ featured: true
 
 ### 分类分布
 
-```mermaid
-pie showData
-    title "文章分类分布"
-    "🤖 AI / ML" : 5
-    "🔒 安全" : 2
-    "🛠 工具 / 开源" : 2
-    "💡 观点 / 杂谈" : 1
-```
+| 分类 | 数量 |
+|:---|:---:|
+| 🤖 AI / ML | 5 |
+| 🔒 安全 | 2 |
+| 🛠 工具 / 开源 | 2 |
+| 💡 观点 / 杂谈 | 1 |
 
 ### 高频关键词
 
-```mermaid
-xychart-beta horizontal
-    title "高频关键词"
-    x-axis ["ai", "llm", "safety", "epistemology", "sycophancy", "accident", "military", "data breach", "odido", "security", "leak", "development"]
-    y-axis "出现次数" 0 --> 7
-    bar [5, 3, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-```
-
-<details>
-<summary>📈 纯文本关键词图（终端友好）</summary>
-
-```
-ai           │ ████████████████████ 5
-llm          │ ████████████░░░░░░░░ 3
-safety       │ ████████████░░░░░░░░ 3
-epistemology │ ████░░░░░░░░░░░░░░░░ 1
-sycophancy   │ ████░░░░░░░░░░░░░░░░ 1
-accident     │ ████░░░░░░░░░░░░░░░░ 1
-military     │ ████░░░░░░░░░░░░░░░░ 1
-data breach  │ ████░░░░░░░░░░░░░░░░ 1
-odido        │ ████░░░░░░░░░░░░░░░░ 1
-security     │ ████░░░░░░░░░░░░░░░░ 1
-```
-
-</details>
+| 关键词 | 次数 |
+|:---|:---:|
+| ai | 5 |
+| llm | 3 |
+| safety | 3 |
 
 ### 🏷️ 话题标签
 
