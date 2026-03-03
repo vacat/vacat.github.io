@@ -1,10 +1,14 @@
 ---
 title: "文章摘要日报 - 2026年3月3日"
 date: 2026-03-03T06:00:00+08:00
-tags: [文章摘要, 日报]
+tags: [文章摘要, 日报, anthropic, ai safety]
 series: []
 featured: true
 ---
+
+今日技术圈聚焦两大核心议题：一是AI安全与政府合作的边界争议，特朗普政府施压Anthropic要求开放模型供军方使用遭拒，而OpenAI达成协议但划定红线，引发关于AI公司责任边界的激辩；二是AI风险与内容质量的反思，从"AI导致死亡"的伦理追问到"AI垃圾内容"泛滥的批评，行业开始正视技术落地的负面效应。与此同时，AI工程化持续推进，AI Agent正加速渗透开发工作流。
+
+<!--more-->
 
 # 📰 AI 博客每日精选 — 2026-03-03
 
@@ -34,7 +38,6 @@ featured: true
 
 > Ben Thompson, writing at Stratechery:
 
-
   In fact, Amodei already answered the question: if nuclear weapons
 were developed by a private company, and that private company
 sought to dictate terms to the
@@ -57,45 +60,6 @@ sought to dictate terms to the
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
 | 88/92 | 2485 篇 → 36 篇 | 48h | **10 篇** |
-
-### 分类分布
-
-```mermaid
-pie showData
-    title "文章分类分布"
-    "🤖 AI / ML" : 6
-    "🛠 工具 / 开源" : 2
-    "⚙️ 工程" : 1
-    "🔒 安全" : 1
-```
-
-### 高频关键词
-
-```mermaid
-xychart-beta horizontal
-    title "高频关键词"
-    x-axis ["anthropic", "ai safety", "trump", "openai", "ai policy", "ai alignment", "regulation", "webassembly", "gif", "optimization", "performance", "redis"]
-    y-axis "出现次数" 0 --> 4
-    bar [2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-```
-
-<details>
-<summary>📈 纯文本关键词图（终端友好）</summary>
-
-```
-anthropic    │ ████████████████████ 2
-ai safety    │ ████████████████████ 2
-trump        │ ██████████░░░░░░░░░░ 1
-openai       │ ██████████░░░░░░░░░░ 1
-ai policy    │ ██████████░░░░░░░░░░ 1
-ai alignment │ ██████████░░░░░░░░░░ 1
-regulation   │ ██████████░░░░░░░░░░ 1
-webassembly  │ ██████████░░░░░░░░░░ 1
-gif          │ ██████████░░░░░░░░░░ 1
-optimization │ ██████████░░░░░░░░░░ 1
-```
-
-</details>
 
 ### 🏷️ 话题标签
 
@@ -120,7 +84,6 @@ optimization │ ██████████░░░░░░░░░░ 1
 ['Anthropic and Alignment'](https://stratechery.com/2026/anthropic-and-alignment/) — **daringfireball.net** · 8 小时前 · ⭐ 25/30
 
 > Ben Thompson, writing at Stratechery:
-
 
   In fact, Amodei already answered the question: if nuclear weapons
 were developed by a private company, and that private company
