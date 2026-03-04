@@ -1,7 +1,7 @@
 ---
 title: "AI 博客每日精选 — 2026-03-04"
 date: 2026-03-04T10:00:00+08:00
-tags: [文章摘要, 日报, ai, claude, llm]
+tags: [文章摘要, 日报, AI, Claude, LLM]
 series: []
 featured: true
 ---
@@ -36,7 +36,7 @@ featured: true
 
 [The AI Bubble Is An Information War](https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/) — wheresyoured.at · 8 小时前 · 🤖 AI / ML
 
-> Editor's Note: Apologies if you received this email twice - we had an issue with our mail server that meant it was hitting spam in many cases!Hi! If you like this piece and want to support my wor
+> Editor&apos;s Note: Apologies if you received this email twice - we had an issue with our mail server that meant it was hitting spam in many cases!Hi! If you like this piece and want to support my wor
 
 🏷️ AI bubble, information war, AI industry
 
@@ -50,15 +50,29 @@ featured: true
 
 ### 分类分布
 
-- 🤖 AI / ML: 6
-- 🛠 工具 / 开源: 1
-- 🔒 安全: 1
-- ⚙️ 工程: 1
-- 📝 其他: 1
+```mermaid
+pie showData
+    title "文章分类分布"
+    "🤖 AI / ML" : 6
+    "🛠 工具 / 开源" : 1
+    "🔒 安全" : 1
+    "⚙️ 工程" : 1
+    "📝 其他" : 1
+```
 
-### 🏷️ 高频标签
+### 高频关键词
 
-ai(3) · claude(2) · llm(2) · ai agent(1) · authentication(1) · development(1) · content(1) · quality(1) · writing(1) · ai bubble(1) · information war(1) · ai industry(1) · data breach(1) · odido(1) · security(1) · apple m5(1) · chip(1) · macbook pro(1) · processor(1) · sycophancy(1)
+```mermaid
+xychart-beta horizontal
+    title "高频关键词"
+    x-axis ["ai", "claude", "llm", "ai agent", "authentication", "development", "content", "quality", "writing", "ai bubble", "information war", "ai industry"]
+    y-axis "出现次数" 0 --> 5
+    bar [3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+```
+
+### 🏷️ 话题标签
+
+**ai**(3) · **claude**(2) · **llm**(2) · ai agent(1) · authentication(1) · development(1) · content(1) · quality(1) · writing(1) · ai bubble(1) · information war(1) · ai industry(1) · data breach(1) · odido(1) · security(1) · apple m5(1) · chip(1) · macbook pro(1) · processor(1) · sycophancy(1)
 
 ---
 
@@ -78,7 +92,7 @@ ai(3) · claude(2) · llm(2) · ai agent(1) · authentication(1) · development(
 
 [The AI Bubble Is An Information War](https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/) — **wheresyoured.at** · 8 小时前 · ⭐ 25/30
 
-> Editor's Note: Apologies if you received this email twice - we had an issue with our mail server that meant it was hitting spam in many cases!Hi! If you like this piece and want to support my wor
+> Editor&apos;s Note: Apologies if you received this email twice - we had an issue with our mail server that meant it was hitting spam in many cases!Hi! If you like this piece and want to support my wor
 
 🏷️ AI bubble, information war, AI industry
 
@@ -143,7 +157,7 @@ Google's latest model is an update to their i
 
 [Weekly Update 493](https://www.troyhunt.com/weekly-update-493/) — **troyhunt.com** · 1 天前 · ⭐ 25/30
 
-> The Odido breach leaks were towards the beginning during this week's update. I recorded it the day after the second dump of data had hit, with a third dump coming a few hours later, and a final d
+> The Odido breach leaks were towards the beginning during this week&apos;s update. I recorded it the day after the second dump of data had hit, with a third dump coming a few hours later, and a final d
 
 🏷️ data breach, Odido, security
 
@@ -185,3 +199,4 @@ to shout out loud. The problem is,
 
 *生成于 2026-03-04 02:03 | 扫描 89 源 → 获取 2511 篇 → 精选 10 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
