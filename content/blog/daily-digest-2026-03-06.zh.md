@@ -1,26 +1,20 @@
 ---
 title: "AI 博客每日精选 — 2026-03-06"
 date: 2026-03-06T18:00:00+08:00
-tags: [文章摘要, 日报]
+tags: [文章摘要, 日报, ai, windows]
 series: []
 featured: true
 ---
 
-# 📰 AI 博客每日精选 — 2026-03-06
-
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
-
-## 📝 今日看点
-
 OpenAI发布GPT-5.4系列新模型，支持百万token上下文窗口，AI能力持续迭代；与此同时，AI应用的伦理与风险讨论升温，代码重构许可证争议与生成式AI不适用于税务、医疗等高风险场景的警示并存；工程实践层面，代理工程中的代码审查责任与提示工程的局限性也引发开发者反思。
 
----
+<!--more-->
 
 ## 🏆 今日必读
 
 🥇 **GPT-5.4发布：OpenAI推出新API模型及ChatGPT集成**
 
-[Introducing GPT‑5.4](https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything) — simonwillison.net · 1 小时前 · 🤖 AI / ML
+[Introducing GPT‑5.4](https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything) — **simonwillison.net** · 1 小时前 · 🤖 AI / ML
 
 > OpenAI发布GPT-5.4和GPT-5.4-pro两款新API模型，知识截止日期为2025年8月31日，支持100万token上下文窗口。定价略高于GPT-5.2系列，超过272,000 tokens时价格上调。GPT-5.4在所有相关基准测试中击败了专注于编码的GPT-5.3-Codex模型。
 
@@ -30,7 +24,7 @@ OpenAI发布GPT-5.4系列新模型，支持百万token上下文窗口，AI能力
 
 🥈 **AI与忒修斯之船：代码重构与许可证争议**
 
-[AI And The Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) — lucumr.pocoo.org · 1 天前 · 🤖 AI / ML
+[AI And The Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) — **lucumr.pocoo.org** · 1 天前 · 🤖 AI / ML
 
 > 文章讨论了AI重写开源库带来的许可证和身份认同问题。以chardet库为例，新维护者仅通过API和测试套件从零重写了整个库，旨在将许可证从LGPL更换为MIT。原作者Mark Pilgrim认为新实现构成衍生作品而非独立作品。
 
@@ -40,7 +34,7 @@ OpenAI发布GPT-5.4系列新模型，支持百万token上下文窗口，AI能力
 
 🥉 **编码代理能否通过"清洁室"实现重新许可开源代码？**
 
-[Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) — simonwillison.net · 9 小时前 · ⚙️ 工程
+[Can coding agents relicense open source through a "clean room" implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) — **simonwillison.net** · 9 小时前 · ⚙️ 工程
 
 > 编码代理可以在数小时内完成过去需要工程师团队数周乃至数月才能完成的"清洁室"代码实现。以Compaq 1982年克隆IBM BIOS为例，这种模式通过一个团队逆向工程创建规范，再由另一团队从零开始实现。当前围绕chardet库的重新许可争议正引发伦理和法律层面的激烈讨论。
 
@@ -58,44 +52,11 @@ OpenAI发布GPT-5.4系列新模型，支持百万token上下文窗口，AI能力
 
 ### 分类分布
 
-```mermaid
-pie showData
-    title "文章分类分布"
-    "🤖 AI / ML" : 6
-    "⚙️ 工程" : 4
-```
-
-### 高频关键词
-
-```mermaid
-xychart-beta horizontal
-    title "高频关键词"
-    x-axis ["ai", "windows", "gpt-5.4", "llm", "openai", "api models", "code generation", "ship of theseus", "coding agents", "clean room", "open source", "relicensing"]
-    y-axis "出现次数" 0 --> 4
-    bar [2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-```
-
-<details>
-<summary>📈 纯文本关键词图（终端友好）</summary>
-
-```
-ai              │ ████████████████████ 2
-windows         │ ████████████████████ 2
-gpt-5.4         │ ██████████░░░░░░░░░░ 1
-llm             │ ██████████░░░░░░░░░░ 1
-openai          │ ██████████░░░░░░░░░░ 1
-api models      │ ██████████░░░░░░░░░░ 1
-code generation │ ██████████░░░░░░░░░░ 1
-ship of theseus │ ██████████░░░░░░░░░░ 1
-coding agents   │ ██████████░░░░░░░░░░ 1
-clean room      │ ██████████░░░░░░░░░░ 1
-```
-
-</details>
+🤖 AI / ML (6) · ⚙️ 工程 (4)
 
 ### 🏷️ 话题标签
 
-**ai**(2) · **windows**(2) · **gpt-5.4**(1) · llm(1) · openai(1) · api models(1) · code generation(1) · ship of theseus(1) · coding agents(1) · clean room(1) · open source(1) · relicensing(1) · generative ai(1) · taxes(1) · reliability(1) · anti-patterns(1) · agentic engineering(1) · best practices(1) · qwen(1) · alibaba(1)
+**ai**(2) · **windows**(2) · gpt-5.4(1) · llm(1) · openai(1) · api models(1) · code generation(1) · ship of theseus(1) · coding agents(1) · clean room(1) · open source(1) · relicensing(1) · generative ai(1) · taxes(1) · reliability(1) · anti-patterns(1) · agentic engineering(1) · best practices(1) · qwen(1) · alibaba(1)
 
 ---
 
@@ -165,7 +126,7 @@ clean room      │ ██████████░░░░░░░░░░
 
 ### 7. 编码代理能否通过"清洁室"实现重新许可开源代码？
 
-[Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 22/30
+[Can coding agents relicense open source through a "clean room" implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 22/30
 
 > 编码代理可以在数小时内完成过去需要工程师团队数周乃至数月才能完成的"清洁室"代码实现。以Compaq 1982年克隆IBM BIOS为例，这种模式通过一个团队逆向工程创建规范，再由另一团队从零开始实现。当前围绕chardet库的重新许可争议正引发伦理和法律层面的激烈讨论。
 
