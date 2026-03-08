@@ -1,49 +1,54 @@
 ---
 title: "AI 博客每日精选 — 2026-03-07"
-date: 2026-03-07T18:00:00+08:00
-tags: [文章摘要, 日报, llm, google, epic]
-series: []
-featured: true
+date: 2026-03-07T08:00:00+08:00
+draft: false
+tags:
+  - "AI"
+  - "TechBeacon"
+  - "日报"
+categories:
+  - "每日精选"
 ---
 
-今日AI领域呈现三大趋势：一是模型性能日趋同质化，竞争焦点转向品牌信任与道德定位，Anthropic正借此打造“可信赖AI”差异化战略；二是安全风险持续升级，从iOS漏洞工具Coruna到针对Cline的提示注入攻击，再到Gary Marcus警示AI处理税务等高风险场景的不可靠性，AI安全议题全面升温；三是AI对软件工程职业的冲击加速显现，编码智能体虽提升效率但需手动验证，同时从业者开始担忧AI将逐步取代工程师的核心价值。
+> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 20
 
-<!--more-->
+## 📝 今日看点
 
+今日技术圈聚焦三大趋势：AI安全风险持续升级，Google发现针对iOS的高级漏洞利用工具包Coruna，Cline遭遇提示注入攻击暴露AI工具权限风险，Anthropic与OpenAI更是竞相争夺五角大楼合同以彰显"可信AI"定位。与此同时，GPT-5.4发布、Codex开源支持计划与AI CLI工具相继推出，AI编码能力与开发者工作流的融合进一步深化。但算力瓶颈与伦理争议也随之浮现——有分析指出仅1%知识工作者使用AI助手已致资源紧张，而AI通过"净室"重写代码引发的许可证争议，则暴露了技术革新与法律边界间的深层矛盾。
 
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
+---
 
 ## 🏆 今日必读
 
-🥇 **Anthropic与五角大楼**
+🥇 **Anthropic 与五角大楼**
 
-[Anthropic and the Pentagon](https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything) — simonwillison.net · 8 小时前 · 🔒 安全
+[Anthropic and the Pentagon](https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything) — simonwillison.net · 1 天前 · 🔒 安全
 
-> 本文讨论了Anthropic与五角大楼的合同争议及AI市场的竞争格局。Bruce Schneier和Nathan E. Sanders指出，当前顶级AI模型性能日益趋同，各厂商之间难以形成明显差异化，Anthropic、OpenAI和Google的模型每隔几个月就会小幅升级互相超越。在这种情况下，品牌定位成为竞争关键，Anthropic及其CEO Dario Amodei正将公司塑造为道德且可信的AI提供商，这对消费者和企业客户都具有市场价值。
+> Bruce Schneier 和 Nathan E. Sanders 分析了 Anthropic 与 OpenAI 争夺五角大楼合同的局势。文章指出当前 AI 模型正在商品化，顶级模型性能相近难以区分，Anthropic 和 CEO Dario Amodei 正将自身定位为道德且可信的 AI 提供商，以此在消费者和企业市场获取竞争优势。
 
-💡 **为什么值得读**: 提供了对AI行业竞争本质的深刻洞察，揭示了品牌战略与技术能力并重的市场现实。
+💡 **为什么值得读**: 文章来自安全专家 Bruce Schneier，提供对 AI 巨头与军方合作的深入冷静分析，探讨了技术商品化背景下的品牌战略博弈。
 
-🏷️ AI, Anthropic, Pentagon, government
+🏷️ Anthropic, Pentagon, AI policy, military
 
-🥈 **GPT-5.4正式发布**
+🥈 **GPT-5.4 发布**
 
 [Introducing GPT‑5.4](https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything) — simonwillison.net · 1 天前 · 🤖 AI / ML
 
-> OpenAI推出GPT-5.4和GPT-5.4-pro两款API模型，支持100万token上下文窗口，知识截止日期为2025年8月31日。GPT-5.4定价略高于GPT-5.2系列，超过272,000 tokens后价格上调。在所有相关基准测试中，GPT-5.4超越了专门的编程模型GPT-5.3-Codex，显示OpenAI在编码能力上的全面提升。
+> OpenAI 推出 GPT-5.4 和 GPT-5.4-pro 两款 API 模型，支持 ChatGPT、Codex CLI 及 1百万 token 上下文窗口（截至2025年8月31日知识截止）。定价略高于 GPT-5.2 系列，超过272,000 tokens 后价格上调。GPT-5.4 在所有相关基准测试中超越了专业编码模型 GPT-5.3-Codex。
 
-💡 **为什么值得读**: 对于关注AI模型发展和技术选型的开发者而言，了解最新模型能力边界和定价变化具有实际参考价值。
+💡 **为什么值得读**: 了解 OpenAI 最新模型能力与定价策略的直接来源，对关注 AI 编码工具发展的开发者有参考价值。
 
-🏷️ GPT-5.4, OpenAI, LLM, model release
+🏷️ GPT-5.4, OpenAI, LLM, API
 
-🥉 **智能体手动测试**
+🥉 **Google 威胁情报团队发现 Coruna：强大的 iOS 漏洞利用工具包**
 
-[Agentic manual testing](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) — simonwillison.net · 20 小时前 · 🤖 AI / ML
+[Google's Threat Intelligence Group on Coruna, a Powerful iOS Exploit Kit of Mysterious Origin](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit) — daringfireball.net · 1 天前 · 🔒 安全
 
-> 本文阐述了编码智能体（coding agent）的核心特征：能够执行自己编写的代码，这是其比仅输出代码的LLM更有价值的关键所在。作者强调永远不要假设LLM生成的代码能直接工作，必须通过执行来验证；让智能体编写单元测试特别是采用TDD测试优先的方式，是确保代码被充分执行的有效手段，但自动化测试并非唯一验证方式。
+> Google Threat Intelligence Group 发现名为「Coruna」的高级漏洞利用工具包，针对 iOS 13.0 至 17.2.1 版本。该工具包包含5条完整 iOS 漏洞链和23个漏洞，其中最先进的使用非公开利用技术和绕过缓解措施。2025年该工具首先被某监控供应商客户使用，随后被疑似俄罗斯间谍组织 UNC6353 用于针对乌克兰用户的水坑攻击。
 
-💡 **为什么值得读**: 为AI辅助编程实践提供了重要的工程原则，帮助开发者建立正确的代码验证思维。
+💡 **为什么值得读**: 安全研究人员不可错过的详细技术分析，揭示高级移动漏洞利用工具的扩散方式和实际攻击案例。
 
-🏷️ AI agents, coding agents, testing, LLM
+🏷️ iOS, exploit kit, security, Google
 
 ---
 
@@ -51,164 +56,224 @@ featured: true
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 88/92 | 2487 篇 → 35 篇 | 48h | **10 篇** |
-
-### 分类分布
-
-```mermaid
-pie showData
-    title "文章分类分布"
-    "🔒 安全" : 3
-    "🤖 AI / ML" : 3
-    "💡 观点 / 杂谈" : 2
-    "📝 其他" : 1
-    "⚙️ 工程" : 1
-```
-
-### 高频关键词
-
-```mermaid
-xychart-beta horizontal
-    title "高频关键词"
-    x-axis ["llm", "google", "epic", "software engineering", "ai", "anthropic", "pentagon", "government", "gpt-5.4", "openai", "model release", "ai agents"]
-    y-axis "出现次数" 0 --> 5
-    bar [3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1]
-```
-
-<details>
-<summary>📈 纯文本关键词图（终端友好）</summary>
-
-```
-llm                  │ ████████████████████ 3
-google               │ ████████████████████ 3
-epic                 │ █████████████░░░░░░░ 2
-software engineering │ █████████████░░░░░░░ 2
-ai                   │ ███████░░░░░░░░░░░░░ 1
-anthropic            │ ███████░░░░░░░░░░░░░ 1
-pentagon             │ ███████░░░░░░░░░░░░░ 1
-government           │ ███████░░░░░░░░░░░░░ 1
-gpt-5.4              │ ███████░░░░░░░░░░░░░ 1
-openai               │ ███████░░░░░░░░░░░░░ 1
-```
-
-</details>
+| 89/92 | 2514 篇 → 49 篇 | 72h | **20 篇** |
 
 ### 🏷️ 话题标签
 
-**llm**(3) · **google**(3) · **epic**(2) · software engineering(2) · ai(1) · anthropic(1) · pentagon(1) · government(1) · gpt-5.4(1) · openai(1) · model release(1) · ai agents(1) · coding agents(1) · testing(1) · ios(1) · exploit kit(1) · security vulnerability(1) · prompt injection(1) · cline(1) · github(1)
-
----
-
-## 🔒 安全
-
-### 1. Anthropic与五角大楼
-
-[Anthropic and the Pentagon](https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything) — **simonwillison.net** · 8 小时前 · ⭐ 27/30
-
-> 本文讨论了Anthropic与五角大楼的合同争议及AI市场的竞争格局。Bruce Schneier和Nathan E. Sanders指出，当前顶级AI模型性能日益趋同，各厂商之间难以形成明显差异化，Anthropic、OpenAI和Google的模型每隔几个月就会小幅升级互相超越。在这种情况下，品牌定位成为竞争关键，Anthropic及其CEO Dario Amodei正将公司塑造为道德且可信的AI提供商，这对消费者和企业客户都具有市场价值。
-
-🏷️ AI, Anthropic, Pentagon, government
-
----
-
-### 2. Google发现神秘iOS漏洞工具Coruna
-
-[Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit) — **daringfireball.net** · 5 小时前 · ⭐ 26/30
-
-> Google威胁情报团队发现名为Coruna的强力iOS漏洞利用工具包，针对iOS 13.0至17.2.1版本。该工具包包含5个完整的iOS漏洞链和23个漏洞，其中最先进的利用技术采用非公开的漏洞利用方法和缓解绕过技术。2025年，该工具首先被某监控供应商的客户用于高度定向攻击，随后被疑似俄罗斯间谍组织UNC6353用于针对乌克兰用户的水坑攻击。
-
-🏷️ iOS, exploit kit, security vulnerability, Google
-
----
-
-### 3. Clinejection：利用提示注入攻击攻破Cline生产环境
-
-[Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager](https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything) — **simonwillison.net** · 23 小时前 · ⭐ 25/30
-
-> 安全研究员Adnan Khan披露了针对Cline GitHub仓库的攻击链，攻击从在issue标题中植入prompt injection开始。Cline使用anthropics/claude-code-action@v1运行AI驱动的issue分类，当用户创建issue时，Claude Code会读取issue标题执行任务。攻击者通过精心构造的issue标题成功诱使Claude执行任意命令，实现了对生产仓库的入侵。
-
-🏷️ prompt injection, Cline, GitHub, vulnerability
+**google**(3) · **ai**(3) · **anthropic**(2) · openai(2) · llm(2) · claude(2) · open source(2) · programming(2) · epic(2) · pentagon(1) · ai policy(1) · military(1) · gpt-5.4(1) · api(1) · ios(1) · exploit kit(1) · security(1) · compute(1) · claude code(1) · infrastructure(1)
 
 ---
 
 ## 🤖 AI / ML
 
-### 4. GPT-5.4正式发布
+### 1. GPT-5.4 发布
 
-[Introducing GPT‑5.4](https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 27/30
+[Introducing GPT‑5.4](https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 26/30
 
-> OpenAI推出GPT-5.4和GPT-5.4-pro两款API模型，支持100万token上下文窗口，知识截止日期为2025年8月31日。GPT-5.4定价略高于GPT-5.2系列，超过272,000 tokens后价格上调。在所有相关基准测试中，GPT-5.4超越了专门的编程模型GPT-5.3-Codex，显示OpenAI在编码能力上的全面提升。
+> OpenAI 推出 GPT-5.4 和 GPT-5.4-pro 两款 API 模型，支持 ChatGPT、Codex CLI 及 1百万 token 上下文窗口（截至2025年8月31日知识截止）。定价略高于 GPT-5.2 系列，超过272,000 tokens 后价格上调。GPT-5.4 在所有相关基准测试中超越了专业编码模型 GPT-5.3-Codex。
 
-🏷️ GPT-5.4, OpenAI, LLM, model release
-
----
-
-### 5. 智能体手动测试
-
-[Agentic manual testing](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 26/30
-
-> 本文阐述了编码智能体（coding agent）的核心特征：能够执行自己编写的代码，这是其比仅输出代码的LLM更有价值的关键所在。作者强调永远不要假设LLM生成的代码能直接工作，必须通过执行来验证；让智能体编写单元测试特别是采用TDD测试优先的方式，是确保代码被充分执行的有效手段，但自动化测试并非唯一验证方式。
-
-🏷️ AI agents, coding agents, testing, LLM
+🏷️ GPT-5.4, OpenAI, LLM, API
 
 ---
 
-### 6. 不要信任生成式AI处理税务和生命安全
+### 2. AI 计算资源紧张是否已经来临？
 
-[Don’t trust Generative AI to do your taxes — and don’t trust it with people’s lives](https://garymarcus.substack.com/p/dont-trust-generative-ai-to-do-your) — **garymarcus.substack.com** · 1 天前 · ⭐ 23/30
+[Is the AI Compute Crunch Here?](https://martinalderson.com/posts/is-the-ai-compute-crunch-here/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed) — **martinalderson.com** · 23 小时前 · ⭐ 25/30
 
-> Gary Marcus撰文指出不应信任生成式AI处理税务申报或涉及人们生命安全的事项。问题的根源在于AI聊天机器人的基本设计方式存在根本性缺陷，这些缺陷导致其在高风险场景下不可靠。
+> Claude Code 拥有200-300万用户，仅占知识工作者的1%。作者指出从这个基数开始，计算资源的数学需求将变得非常惊人。
 
-🏷️ Generative AI, taxes, safety, LLM
-
----
-
-## 💡 观点 / 杂谈
-
-### 7. Tim Sweeney访谈：Epic诉Google案获胜后
-
-[The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court) — **daringfireball.net** · 8 小时前 · ⭐ 24/30
-
-> Epic CEO Tim Sweeney在接受访谈中对比了Apple和Google的反垄断案差异，认为Apple是"冰"而Google是"火"。他指出Apple的垄断行为主要在公司内部进行，不留书面痕迹；而Google为推广Android向数十家游戏开发商、运营商和OEM支付费用以阻止竞争，这些交易都有书面记录，更容易被调查发现。
-
-🏷️ Epic, Google, antitrust, Tim Sweeney
+🏷️ AI, compute, Claude Code, infrastructure
 
 ---
 
-### 8. 我的工作十年后是否还存在
+### 3. 智能体手动测试
 
-[I don't know if my job will still exist in ten years](https://seangoedecke.com/will-my-job-still-exist/) — **seangoedecke.com** · 1 天前 · ⭐ 23/30
+[Agentic manual testing](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 24/30
 
-> 作者反思了软件工程行业的前景变化：2021年时认为可以一直从事热爱的编程工作，但到2026年却对行业未来感到担忧。他指出软件工程师的核心价值在于通过代码实现杠杆效应来自动化其他工作，而AI正在逐步取代这一能力。他认为软件工程行业可能无法再存活十年，即使存活也会发生巨变。
+> 编码智能体的定义特征是能够执行自己编写的代码，这使其比仅能输出代码的 LLM 更有用。永远不要假设 LLM 生成的代码能正常工作，必须执行验证。智能体可通过编写单元测试（尤其是 TDD 测试先行）来确认代码是否符合预期，但通过测试不等于功能正确，手动验证仍然必要。
 
-🏷️ software engineering, career, AI impact, job security
+🏷️ coding agents, LLM, execution, agentic
 
 ---
 
-## 📝 其他
+### 4. AI 与忒修斯之船
 
-### 9. Tim Sweeney签署协议放弃批评Google的权利至2032年
+[AI And The Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) — **lucumr.pocoo.org** · 2 天前 · ⭐ 24/30
 
-[Tim Sweeney Signed Away His Right to Criticize Google’s Play Store Until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) — **daringfireball.net** · 8 小时前 · ⭐ 24/30
+> 随着代码编写成本降低，AI 也开始进行代码重实现。作者提到曾用 AI 将一个库移植到另一语言，AI 选择了不同设计路径。chardet 维护者通过仅指向 API 和测试套件从零重写了整个库以实现许可证变更（从 LGPL 到 MIT），原作者 Mark Pilgrim 认为这构成衍生作品并表示反对。
 
-> Epic与Google的和解条款要求Tim Sweeney在2032年之前放弃批评Google Play商店政策的权利。根据协议，Sweeney不仅不能对和解范围内的Google行为提起诉讼或发表负面言论，还必须积极认可Google的应用程序分发做法，并在条款范围内为Google辩护。他现在只能将Coalition for App Fairness组织的矛头指向Apple。
+🏷️ AI, code generation, refactoring, programming
 
-🏷️ Epic, Google, settlement, legal
+---
+
+### 5. 不要信任生成式AI做报税——也不要信任它处理人们的生命
+
+[Don't trust Generative AI to do your taxes — and don't trust it with people's lives](https://garymarcus.substack.com/p/dont-trust-generative-ai-to-do-your) — **garymarcus.substack.com** · 2 天前 · ⭐ 21/30
+
+> 文章指出生成式AI聊天机器人存在根本性设计缺陷，不适合用于税务申报或涉及人们生命安全的关键场景。作者批评当前AI系统缺乏可靠性，无法保证准确性和安全性。
+
+🏷️ Generative AI, taxes, healthcare, reliability
+
+---
+
+## 🔒 安全
+
+### 6. Anthropic 与五角大楼
+
+[Anthropic and the Pentagon](https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 26/30
+
+> Bruce Schneier 和 Nathan E. Sanders 分析了 Anthropic 与 OpenAI 争夺五角大楼合同的局势。文章指出当前 AI 模型正在商品化，顶级模型性能相近难以区分，Anthropic 和 CEO Dario Amodei 正将自身定位为道德且可信的 AI 提供商，以此在消费者和企业市场获取竞争优势。
+
+🏷️ Anthropic, Pentagon, AI policy, military
+
+---
+
+### 7. Google 威胁情报团队发现 Coruna：强大的 iOS 漏洞利用工具包
+
+[Google's Threat Intelligence Group on Coruna, a Powerful iOS Exploit Kit of Mysterious Origin](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit) — **daringfireball.net** · 1 天前 · ⭐ 25/30
+
+> Google Threat Intelligence Group 发现名为「Coruna」的高级漏洞利用工具包，针对 iOS 13.0 至 17.2.1 版本。该工具包包含5条完整 iOS 漏洞链和23个漏洞，其中最先进的使用非公开利用技术和绕过缓解措施。2025年该工具首先被某监控供应商客户使用，随后被疑似俄罗斯间谍组织 UNC6353 用于针对乌克兰用户的水坑攻击。
+
+🏷️ iOS, exploit kit, security, Google
+
+---
+
+### 8. Clinejection — 通过提示 Issue 分类器入侵 Cline 生产版本
+
+[Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager](https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 24/30
+
+> 安全研究员 Adnan Khan 披露了一个针对 Cline GitHub 仓库的攻击链，利用提示注入攻击攻破其 AI 驱动的 Issue 分类系统。攻击者在 Issue 标题中嵌入恶意指令，诱导 Claude Code 执行任意命令（如安装恶意 npm 包）。Cline 使用 anthropics/claude-code-action@v1 配置了允许 Bash/Read/Write 等工具的权限。
+
+🏷️ prompt injection, Cline, GitHub, vulnerability
+
+---
+
+### 9. Tim Sweeney签署协议：直至2032年不得批评Google Play Store
+
+[Tim Sweeney Signed Away His Right to Criticize Google's Play Store Until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) — **daringfireball.net** · 1 天前 · ⭐ 21/30
+
+> Epic与Google的和解协议中包含限制性条款：Tim Sweeney不仅放弃对Google app distribution practices、费用和对待应用方式提起诉讼的权利，还必须承诺支持和宣传Google的政策变更。协议要求Epic"真诚地努力倡导"Google和Android平台作为"app store/platform operations的典范"。他只能将Coalition for App Fairness的攻击目标指向苹果。
+
+🏷️ Epic, Google, Play Store, settlement
 
 ---
 
 ## ⚙️ 工程
 
-### 10. 审计Rails代码库的思考
+### 10. 编码智能体能否通过「净室实现」重新许可开源项目？
 
-[Quoting Ally Piechowski](https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything) — **simonwillison.net** · 4 小时前 · ⭐ 23/30
+[Can coding agents relicense open source through a "clean room" implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) — **simonwillison.net** · 2 天前 · ⭐ 24/30
 
-> 本文汇总了审计遗留Rails代码库时应向不同角色提出的关键问题：向开发者询问最不敢触碰的代码区域、上次周五部署时间及生产故障原因；向技术负责人询问阻塞超过一年的功能、实时错误可见性及严重低估的功能；向业务干系人询问被悄悄关闭的功能及不再向客户承诺的事项。
+> 编码智能体能够通过「净室」方式快速重新实现代码，几天内完成过去工程师数周的工作。chardet 项目维护者仅通过 API 和测试套件从零重写了该库，目标是将许可证从 LGPL 变更为 MIT。原作者 Mark Pilgrim 认为新实现属于衍生作品，双方产生争议。
 
-🏷️ legacy code, refactoring, codebase audit, software engineering
+🏷️ clean room, open source, licensing, copyright
 
 ---
 
-*生成于 2026-03-07 02:10 | 扫描 88 源 → 获取 2487 篇 → 精选 10 篇*
+### 11. 当ReadDirectoryChangesW报告删除事件时，如何获取已删除项目的更多信息
+
+[When Read­Directory­ChangesW reports that a deletion occurred, how can I learn more about the deleted thing?](https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 22/30
+
+> Windows API ReadDirectoryChangesW在报告文件或目录被删除时，无法提供更多关于被删除项目的信息，因为该对象已经不存在。作者指出，如果需要获取删除的详细信息，应用程序应该在删除发生前自行记录这些信息，而不是事后查询。
+
+🏷️ Windows API, file system, ReadDirectoryChangesW
+
+---
+
+### 12. posted message在到达主消息循环前被分发的神秘事件
+
+[The mystery of the posted message that was dispatched before reaching the main message loop](https://devblogs.microsoft.com/oldnewthing/20260305-00/?p=112114) — **devblogs.microsoft.com/oldnewthing** · 2 天前 · ⭐ 22/30
+
+> 探讨Windows消息循环中一个令人困惑的现象：为什么一个通过PostMessage发送的消息在到达主消息循环之前就被分发了？作者给出的答案是：这可能是因为你本身就在分发这个消息。
+
+🏷️ Windows, message loop, programming
+
+---
+
+### 13. JJ LSP后续：LSP 3.18版本的新方案
+
+[JJ LSP Follow Up](https://matklad.github.io/2026/03/05/jj-lsp-followup.html) — **matklad.github.io** · 2 天前 · ⭐ 21/30
+
+> 作者在之前的Majjit LSP文章中提出了使用Magit风格UX和LSP协议实现jj版本控制器的方案。最近发现LSP 3.18版本将推出Text Document Content Request功能，可以大大简化之前的hacky实现。
+
+🏷️ jj, LSP, version control, Magit
+
+---
+
+## 💡 观点 / 杂谈
+
+### 14. The Verge专访Tim Sweeney：Epic诉Google案胜诉后访谈
+
+[The Verge Interviews Tim Sweeney After Victory in 'Epic v. Google'](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court) — **daringfireball.net** · 1 天前 · ⭐ 22/30
+
+> Epic创始人Tim Sweeney对比苹果和谷歌反垄断案，称苹果是"冰"（所有操作在内部进行），谷歌是"火"（与外部公司的交易都写成文字，更容易被取证）。Google向数十家游戏开发商、运营商和OEM支付费用以阻止竞争，这些书面协议成为关键证据。Sweeney认为如果能看到苹果内部的 deliberations，苹果案同样会很有趣，但苹果没有留下书面记录。
+
+🏷️ Epic, Google, antitrust, Tim Sweeney
+
+---
+
+### 15. 漏斗中的幽灵：你的免费层级是他人的二十分钟副项目
+
+[The Ghost in the Funnel](https://worksonmymachine.ai/p/the-ghost-in-the-funnel) — **worksonmymachine.substack.com** · 9 小时前 · ⭐ 22/30
+
+> 文章探讨AI时代软件行业的"漏斗"现象：科技公司提供的免费层级服务，实际上可能成为独立开发者短时间内就能完成的副项目。免费服务与低成本替代方案之间的边界正在模糊。
+
+🏷️ free tier, SaaS, business model, pricing
+
+---
+
+### 16. 我不知道我的工作十年后是否还存在
+
+[I don't know if my job will still exist in ten years](https://seangoedecke.com/will-my-job-still-exist/) — **seangoedecke.com** · 1 天前 · ⭐ 21/30
+
+> 作者从2021年对软件工程行业的信心，到2026年对行业未来的担忧。文章认为软件工程师的好时光源于代码能自动化其他工作，而AI正在自动化软件工程本身本身。作者不确定行业能否再存活十年，即使存活也会发生巨变，可能需要转型监督AI agents或完全离开行业。
+
+🏷️ software engineering, career, AI, job security
+
+---
+
+### 17. 突发：Sam Altman的贪婪和不诚实终于追上他了
+
+[BREAKING: Sam Altman's greed and dishonesty are finally catching up to him](https://garymarcus.substack.com/p/breaking-sam-altmans-greed-and-dishonesty) — **garymarcus.substack.com** · 4 小时前 · ⭐ 20/30
+
+> 作者长期批评OpenAI CEO Sam Altman，认为他的贪婪和不诚实行为终于开始产生后果。这是一篇评论性质的文章，表达了对Altman领导风格和OpenAI发展方向的不满。
+
+🏷️ Sam Altman, OpenAI, leadership
+
+---
+
+## 🛠 工具 / 开源
+
+### 18. Codex 开源计划
+
+[Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — **simonwillison.net** · 5 小时前 · ⭐ 24/30
+
+> OpenAI 推出针对开源项目维护者的支持计划：为核心开源维护者提供6个月免费 ChatPro（$200/月），包含 Codex 访问权限和「有条件的 Codex Security」访问权限。申请表单要求提供 GitHub stars、月下载量或项目对生态的重要性说明，但未公布具体指标门槛。
+
+🏷️ Claude, open source, Anthropic, maintainers
+
+---
+
+### 19. npx workos
+
+['npx workos'](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 46 分钟前 · ⭐ 22/30
+
+> WorkOS 发布 CLI 工具「npx workos」，内置由 Claude 驱动的 AI 智能体。该工具能读取项目代码、检测框架类型，直接在现有代码库中写入完整的身份验证集成。它不是模板生成器，而是真正理解代码栈后写入适配的集成代码，随后进行类型检查和构建，将错误反馈给智能体自动修复。
+
+🏷️ AI agent, Claude, authentication, WorkOS
+
+---
+
+### 20. 有了RSS，网络变得可以忍受——别忘了"阅读模式"
+
+[Pluralistic: The web is bearable with RSS (07 Mar 2026)](https://pluralistic.net/2026/03/07/reader-mode/) — **pluralistic.net** · 5 小时前 · ⭐ 21/30
+
+> 作者认为网络"垃圾化"(enshittification)并非经济规律的必然结果，而是特定政策选择导致的可预见后果。文章倡导使用RSS和阅读模式来对抗日益恶化的网络体验，读者可以自主控制信息获取，避免算法推荐带来的信息污染。
+
+🏷️ RSS, Reader Mode, web browsing
+
+---
+
+*生成于 2026-03-07 23:40 | 扫描 89 源 → 获取 2514 篇 → 精选 20 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
