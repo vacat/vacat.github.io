@@ -1,22 +1,14 @@
 ---
-title: "AI 博客每日精选 — 2026-03-07"
-date: 2026-03-07T08:00:00+08:00
+title: "AI 博客每日精选 — 2026-03-08"
+date: 2026-03-08T08:00:00+08:00
 draft: false
-tags:
-  - "AI"
-  - "TechBeacon"
-  - "日报"
-categories:
-  - "每日精选"
+tags: [AI, TechBeacon, 日报]
+categories: 每日精选
 ---
-
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 20
-
-## 📝 今日看点
 
 今日技术圈聚焦三大趋势：AI安全风险持续升级，Google发现针对iOS的高级漏洞利用工具包Coruna，Cline遭遇提示注入攻击暴露AI工具权限风险，Anthropic与OpenAI更是竞相争夺五角大楼合同以彰显"可信AI"定位。与此同时，GPT-5.4发布、Codex开源支持计划与AI CLI工具相继推出，AI编码能力与开发者工作流的融合进一步深化。但算力瓶颈与伦理争议也随之浮现——有分析指出仅1%知识工作者使用AI助手已致资源紧张，而AI通过"净室"重写代码引发的许可证争议，则暴露了技术革新与法律边界间的深层矛盾。
 
----
+<!--more-->
 
 ## 🏆 今日必读
 
@@ -58,6 +50,14 @@ categories:
 |:---:|:---:|:---:|:---:|
 | 89/92 | 2514 篇 → 49 篇 | 72h | **20 篇** |
 
+### 分类分布
+
+- 🤖 AI / ML: 5
+- 🔒 安全: 4
+- ⚙️ 工程: 4
+- 💡 观点 / 杂谈: 4
+- 🛠 工具 / 开源: 3
+
 ### 🏷️ 话题标签
 
 **google**(3) · **ai**(3) · **anthropic**(2) · openai(2) · llm(2) · claude(2) · open source(2) · programming(2) · epic(2) · pentagon(1) · ai policy(1) · military(1) · gpt-5.4(1) · api(1) · ios(1) · exploit kit(1) · security(1) · compute(1) · claude code(1) · infrastructure(1)
@@ -78,7 +78,7 @@ categories:
 
 ### 2. AI 计算资源紧张是否已经来临？
 
-[Is the AI Compute Crunch Here?](https://martinalderson.com/posts/is-the-ai-compute-crunch-here/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed) — **martinalderson.com** · 23 小时前 · ⭐ 25/30
+[Is the AI Compute Crunch Here?](https://martinalderson.com/posts/is-the-ai-compute-crunch-here/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — **martinalderson.com** · 23 小时前 · ⭐ 25/30
 
 > Claude Code 拥有200-300万用户，仅占知识工作者的1%。作者指出从这个基数开始，计算资源的数学需求将变得非常惊人。
 
@@ -172,7 +172,7 @@ categories:
 
 ### 11. 当ReadDirectoryChangesW报告删除事件时，如何获取已删除项目的更多信息
 
-[When Read­Directory­ChangesW reports that a deletion occurred, how can I learn more about the deleted thing?](https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 22/30
+[When ReadDirectoryChangesW reports that a deletion occurred, how can I learn more about the deleted thing?](https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 22/30
 
 > Windows API ReadDirectoryChangesW在报告文件或目录被删除时，无法提供更多关于被删除项目的信息，因为该对象已经不存在。作者指出，如果需要获取删除的详细信息，应用程序应该在删除发生前自行记录这些信息，而不是事后查询。
 
@@ -256,7 +256,7 @@ categories:
 
 ### 19. npx workos
 
-['npx workos'](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 46 分钟前 · ⭐ 22/30
+['npx workos'](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=q12026) — **daringfireball.net** · 46 分钟前 · ⭐ 22/30
 
 > WorkOS 发布 CLI 工具「npx workos」，内置由 Claude 驱动的 AI 智能体。该工具能读取项目代码、检测框架类型，直接在现有代码库中写入完整的身份验证集成。它不是模板生成器，而是真正理解代码栈后写入适配的集成代码，随后进行类型检查和构建，将错误反馈给智能体自动修复。
 
