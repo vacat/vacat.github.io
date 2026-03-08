@@ -1,9 +1,9 @@
 ---
 title: "AI 博客每日精选 — 2026-03-08"
 date: 2026-03-08T08:00:00+08:00
-draft: false
-tags: [AI, TechBeacon, 日报]
-categories: 每日精选
+tags: [文章摘要，日报，ai, TechBeacon]
+series: []
+featured: true
 ---
 
 今日技术圈聚焦三大趋势：AI安全风险持续升级，Google发现针对iOS的高级漏洞利用工具包Coruna，Cline遭遇提示注入攻击暴露AI工具权限风险，Anthropic与OpenAI更是竞相争夺五角大楼合同以彰显"可信AI"定位。与此同时，GPT-5.4发布、Codex开源支持计划与AI CLI工具相继推出，AI编码能力与开发者工作流的融合进一步深化。但算力瓶颈与伦理争议也随之浮现——有分析指出仅1%知识工作者使用AI助手已致资源紧张，而AI通过"净室"重写代码引发的许可证争议，则暴露了技术革新与法律边界间的深层矛盾。
