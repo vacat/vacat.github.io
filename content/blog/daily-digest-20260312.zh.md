@@ -1,26 +1,22 @@
 ---
 title: "AI 博客每日精选 — 2026-03-12"
 date: 2026-03-12T18:00:00+08:00
-tags: [文章摘要, 日报]
+tags: [文章摘要, 日报, llm, ai, privacy, anthropic, meta]
 series: []
 featured: true
 ---
 
-# 📰 AI 博客每日精选 — 2026-03-11
+今日技术圈聚焦三大趋势：一是AI隐私与安全风险持续发酵，Meta智能眼镜数据标注漏洞致用户敏感内容外泄，伊朗黑客又对医疗设备巨头发动攻击，数据泄露事件近期激增；二是AI在内容生产领域的争议加剧，媒体用AI替代真人记者引发质量担忧，AI编程工具导致的系统故障"爆炸半径"亦在扩大，如何平衡效率与质量成焦点；三是AI技术边界不断拓展，从排序算法动画演示到形式规范辅助，LLM正逐步克服早期局限，但"幻觉"等固有特性仍需审慎对待。
+
+<!--more-->
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 20
-
-## 📝 今日看点
-
-今日技术圈聚焦三大趋势：一是AI隐私与安全风险持续发酵，Meta智能眼镜数据标注漏洞致用户敏感内容外泄，伊朗黑客又对医疗设备巨头发动攻击，数据泄露事件近期激增；二是AI在内容生产领域的争议加剧，媒体用AI替代真人记者引发质量担忧，AI编程工具导致的系统故障“爆炸半径”亦在扩大，如何平衡效率与质量成焦点；三是AI技术边界不断拓展，从排序算法动画演示到形式规范辅助，LLM正逐步克服早期局限，但“幻觉”等固有特性仍需审慎对待。
-
----
 
 ## 🏆 今日必读
 
 🥇 ** Meta AI智能眼镜数据隐私调查：肯尼亚工人可见用户一切内容**
 
-[Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) — daringfireball.net · 2 天前 · 🤖 AI / ML
+[Low-Wage Contractors in Kenya See What Users See While Using Meta's AI Smart Glasses](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) — daringfireball.net · 2 天前 · 🤖 AI / ML
 
 > 瑞典记者调查发现，Meta AI智能眼镜的数据标注工作外包给肯尼亚工人，这些工人可以实时看到用户拍摄的所有视频内容。工人称看到过用户如厕、换衣、银行卡片、观看色情内容等敏感画面，甚至有性行为影像被拍下。工人警告若这些内容泄露将引发"巨大丑闻"。文章揭示了AI数据标注行业背后不为人知的隐私风险。
 
@@ -107,7 +103,7 @@ content generation │ ████░░░░░░░░░░░░░░░
 
 ### 1.  Meta AI智能眼镜数据隐私调查：肯尼亚工人可见用户一切内容
 
-[Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) — **daringfireball.net** · 2 天前 · ⭐ 25/30
+[Low-Wage Contractors in Kenya See What Users See While Using Meta's AI Smart Glasses](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) — **daringfireball.net** · 2 天前 · ⭐ 25/30
 
 > 瑞典记者调查发现，Meta AI智能眼镜的数据标注工作外包给肯尼亚工人，这些工人可以实时看到用户拍摄的所有视频内容。工人称看到过用户如厕、换衣、银行卡片、观看色情内容等敏感画面，甚至有性行为影像被拍下。工人警告若这些内容泄露将引发"巨大丑闻"。文章揭示了AI数据标注行业背后不为人知的隐私风险。
 
@@ -157,7 +153,7 @@ content generation │ ████░░░░░░░░░░░░░░░
 
 ### 6.  AI编码工具导致系统中断，"爆炸半径"巨大
 
-[“A spate of outages, including incidents tied to the use of AI coding tools”, right on schedule](https://garymarcus.substack.com/p/a-spate-of-outages-including-incidents) — **garymarcus.substack.com** · 1 天前 · ⭐ 24/30
+["A spate of outages, including incidents tied to the use of AI coding tools", right on schedule](https://garymarcus.substack.com/p/a-spate-of-outages-including-incidents) — **garymarcus.substack.com** · 1 天前 · ⭐ 24/30
 
 > Gary Marcus指出AI编码工具导致的系统故障和中断事件正在增加，而且这些事件具有"高爆炸半径"——影响范围大、后果严重。这呼应了他之前关于AI编程工具安全风险的警告。
 
@@ -175,11 +171,11 @@ content generation │ ████░░░░░░░░░░░░░░░
 
 ---
 
-### 8. I’m glad the Anthropic fight is happening now
+### 8. I'm glad the Anthropic fight is happening now
 
-[I’m glad the Anthropic fight is happening now](https://www.dwarkesh.com/p/dow-anthropic) — **dwarkesh.com** · 4 小时前 · ⭐ 24/30
+[I'm glad the Anthropic fight is happening now](https://www.dwarkesh.com/p/dow-anthropic) — **dwarkesh.com** · 4 小时前 · ⭐ 24/30
 
-> I’m glad the Anthropic fight is happening now
+> I'm glad the Anthropic fight is happening now
 
 🏷️ Anthropic, AI safety, negotiations
 
@@ -315,6 +311,6 @@ content generation │ ████░░░░░░░░░░░░░░░
 
 ---
 
-*生成于 2026-03-11 23:50 | 扫描 89 源 → 获取 2516 篇 → 精选 20 篇*
+*生成于 2026-03-12 | 扫描 89 源 → 获取 2516 篇 → 精选 20 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
