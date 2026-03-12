@@ -1,12 +1,12 @@
 ---
 title: "AI 博客每日精选 — 2026-03-12"
 date: 2026-03-12T18:00:00+08:00
-tags: [文章摘要, 日报, llm, ai, privacy, anthropic, meta, agent, robotics, genrec]
+tags: [文章摘要, 日报, llm, ai, privacy, anthropic, meta]
 series: []
 featured: true
 ---
 
-今日技术圈聚焦五大趋势：一是AI隐私与安全风险持续发酵，Meta智能眼镜数据标注漏洞致用户敏感内容外泄；二是AI在内容生产领域的争议加剧，媒体用AI替代真人记者引发质量担忧；三是Agent框架竞争白热化，LangGraph、CrewAI、AutoGen 2026年重大更新对比；四是人形机器人融资热潮，Galbot 3.5亿美元融资引领行业；五是生成式推荐系统实战突破，Shopify和快手发布生产级方案。
+今日技术圈聚焦三大趋势：一是AI隐私与安全风险持续发酵，Meta智能眼镜数据标注漏洞致用户敏感内容外泄，伊朗黑客又对医疗设备巨头发动攻击，数据泄露事件近期激增；二是AI在内容生产领域的争议加剧，媒体用AI替代真人记者引发质量担忧，AI编程工具导致的系统故障"爆炸半径"亦在扩大，如何平衡效率与质量成焦点；三是AI技术边界不断拓展，从排序算法动画演示到形式规范辅助，LLM正逐步克服早期局限，但"幻觉"等固有特性仍需审慎对待。
 
 <!--more-->
 
@@ -50,7 +50,7 @@ featured: true
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 89/92 | 2516 篇 → 55 篇 | 72h | **30 篇** |
+| 89/92 | 2516 篇 → 55 篇 | 72h | **20 篇** |
 
 ### 分类分布
 
@@ -63,10 +63,6 @@ pie showData
     "🛠 工具 / 开源" : 1
     "💡 观点 / 杂谈" : 1
     "📝 其他" : 1
-    "🔬 技术前沿" : 3
-    "🎭 Agent 框架" : 2
-    "🤖 机器人" : 3
-    "📈 生成式推荐" : 2
 ```
 
 ### 高频关键词
@@ -315,153 +311,6 @@ content generation │ ████░░░░░░░░░░░░░░░
 
 ---
 
-## 🔬 技术前沿
-
-### 21. 推理加速：ConFu 投机解码新框架
-
-**来源**: arXiv (2026-03-11) | [论文链接](https://arxiv.org/abs/2603.08899)
-
-加州大学研究团队提出 **ConFu (Contemplate the Future)** 框架，通过让草稿模型"预见未来"显著提升投机解码效率：
-
-- **核心创新**：引入"思考 token"和软提示，让草稿模型能以极低代价利用目标模型的未来导向信号
-- **性能提升**：在 Llama-3 3B/8B 上，token 接受率和生成速度比 EAGLE-3 提升 **8-11%**
-- **意义**：首次将投机解码与连续推理 token 结合
-
-🏷️ LLM, speculative decoding, inference acceleration, EAGLE
-
----
-
-### 22. 大小模型协同：COREA 成本优化系统
-
-**来源**: arXiv (EACL 2026) | [论文链接](https://arxiv.org/abs/2603.03752)
-
-Amazon 与清华联合提出 **COREA** 协同推理系统：
-
-- **机制**：小模型 (SLM) 先尝试回答并输出置信度，低置信度问题自动转交 LLM
-- **效果**：成本降低 **21.5%** (数学任务) 和 **16.8%** (非数学任务)，准确率仅下降 <2%
-
-🏷️ SLM, LLM, cost optimization, collaborative reasoning
-
----
-
-### 23. 幻觉风险评估：查询形式影响幻觉率
-
-**来源**: arXiv (EACL 2026 Findings) | [论文链接](https://arxiv.org/abs/2602.20300)
-
-摩根大通 AI 研究发现：查询的句法形式会显著影响 LLM 幻觉概率
-
-- 构建了 **22 维度查询特征向量**
-- **高风险特征**：深层嵌套从句、underspecification
-- **低风险特征**：清晰的意图锚定、明确可回答性
-
-🏷️ hallucination, query analysis, risk assessment
-
----
-
-## 🎭 Agent 框架对比
-
-### 24. 2026 年框架选型终极对比
-
-**来源**: GuruSup (2026-03-11) | [原文链接](https://gurusup.com/blog/best-multi-agent-frameworks-2026)
-
-| 框架 | 编排模型 | 学习曲线 | 生产就绪度 | 独特优势 |
-|------|---------|---------|-----------|---------|
-| **LangGraph** | 有向图 + 条件边 | 中等 | 最高 | 图可视化 + 时间旅行调试 |
-| **CrewAI** | 基于角色的团队 | 最低 | 中等 | 最快原型验证 |
-| **OpenAI SDK** | 显式 handoff | 低 | 高 | 最简洁的 handoff 模型 |
-| **AutoGen** | 对话式 GroupChat | 中等 | 中等 | 多智能体辩论与迭代 |
-| **Claude SDK** | 工具链 + 子智能体 | 中等 | 高 | 安全优先 + Computer Use |
-
-**趋势**: LangGraph 成为复杂有状态工作流的事实标准 (Klarna、Cisco、Uber 部署)
-
-🏷️ LangGraph, CrewAI, AutoGen, Agent framework
-
----
-
-### 25. 支付领域智能体：HMASP 系统
-
-**来源**: arXiv (PAKDD 2026) | [论文链接](https://arxiv.org/abs/2602.24068)
-
-首个端到端智能体支付工作流系统 **HMASP**：解决现有 Operator、Computer Use 等智能体无法处理支付任务的痛点
-
-🏷️ Agent, payment, HMASP, multi-agent
-
----
-
-## 🤖 机器人 / 具身智能
-
-### 26. 人形机器人融资排行榜 (2026)
-
-**来源**: NewMarketPitch (2026-03-11) | [原文链接](https://newmarketpitch.com/blogs/news/humanoid-robotics-top-startups-fundraising)
-
-全球 Top 5 人形机器人创业公司：
-
-| 排名 | 公司 | 总融资 | 最新轮次 |
-|-----|------|-------|---------|
-| 1 | Figure AI | $18亿+ | 2025.9 Series C $10亿+ |
-| 2 | 优必选 (UBTECH) | $17亿 | 2025.7 Post-IPO |
-| 3 | **Galbot** | $9.68亿 | **2026.3 晚期轮 $3.5亿** |
-| 4 | Apptronik | $9.38亿 | 2026.2 Series A-X $5.2亿 |
-| 5 | Spirit AI | $4.82亿 | 2026.2 Series A $2.9亿 |
-
-**近期亮点**：Galbot 3月融资 3.5亿美元，国家集成电路产业基金领投
-
-🏷️ humanoid robot, Figure AI, Galbot, embodied AI
-
----
-
-### 27. 荣耀 MWC 2026：机器人手机 + 人形机器人
-
-**来源**: Rocking Robots (2026-03-04) | [原文链接](https://www.rockingrobots.com/mwc-2026-honor-previews-robot-phone-and-humanoid-robot/)
-
-荣耀展示两项概念产品：**Robot Phone** (四自由度云台系统) 和 **人形机器人原型**
-
-🏷️ HONOR, Robot Phone, humanoid robot, MWC
-
----
-
-### 28. EngineAI T800 人形机器人
-
-**来源**: PR Newswire (2026-01-07)
-
-EngineAI 发布 **T800** 全尺寸人形机器人：
-
-- **硬件规格**: 峰值扭矩 450 N·m，瞬时关节功率 14 kW
-- **配套**: PM01 已规模化部署于公共交通、零售服务、巡检场景
-
-🏷️ EngineAI, T800, PM01, humanoid
-
----
-
-## 📈 生成式推荐 (GenRec)
-
-### 29. Shopify 生产级生成式推荐系统
-
-**来源**: Shopify Engineering (2026-02-25) | [原文链接](https://shopify.engineering/generative-recommendations)
-
-Shopify 发布生产环境生成式推荐架构：
-
-- **核心转变**: 从传统特征工程转向自回归序列预测
-- **规模**: 支持 BFCM 2025 期间 2.2 万亿边缘请求，8100 万消费者
-
-🏷️ Shopify, generative recommendation, production system
-
----
-
-### 30. 快手 PIT：动态个性化 Item Tokenizer
-
-**来源**: arXiv (2026-02-09) | [论文链接](https://arxiv.org/abs/2602.08530)
-
-快手 **PIT** 方案大规模落地：
-
-- **核心创新**: Tokenizer 与生成式推荐模型共同进化
-- **落地效果**: 快手 App 大规模 A/B，**App 停留时长提升 0.402%**
-- **启示**: "索引本身应当成为可学习组件"
-
-🏷️ Kuaishou, PIT, GenRec, dynamic tokenizer
-
----
-
-*生成于 2026-03-12 | 扫描 89 源 → 获取 2516 篇 → 精选 30 篇*
+*生成于 2026-03-12 | 扫描 89 源 → 获取 2516 篇 → 精选 20 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
