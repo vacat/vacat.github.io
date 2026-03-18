@@ -1,7 +1,7 @@
 ---
 title: "AI技术日报 - 2026年3月18日"
-date: 2026-03-18T18:00:00+08:00
-tags: ["技术日报", "AI"]
+date: 2026-03-18T08:30:00+08:00
+tags: [技术日报, AI, LLM, Agent, 机器人, 推荐系统]
 series: []
 featured: true
 ---
