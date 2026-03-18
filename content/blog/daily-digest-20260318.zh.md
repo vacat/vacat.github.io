@@ -1,20 +1,16 @@
 ---
 title: "AI 博客每日精选 — 2026-03-18"
 date: 2026-03-18T18:00:00+08:00
-tags: [文章摘要, 日报]
+tags: [文章摘要, 日报, llm, coding agents, openai, agentic]
 series: []
 featured: true
 ---
 
-# 📰 AI 博客每日精选 — 2026-03-18
-
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
-
-## 📝 今日看点
-
 今日技术圈呈现两大核心趋势：一是AI模型持续向轻量化、低成本演进，GPT-5.4 mini/nano以极低价格实现大规模图像理解，Mistral Small 4进一步丰富了小模型生态；二是编码代理（coding agents）技术进入爆发期，从子代理架构到代理工程方法论，AI正在从单纯的内容生成转向自动化任务执行。与此同时，Apple在MacBook Neo上展示的硬件级安全设计引发关注，隐私保护仍是高端设备的重要竞争维度。
 
----
+<!--more-->
+
+> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
 
 ## 🏆 今日必读
 
@@ -193,11 +189,11 @@ codex         │ ███░░░░░░░░░░░░░░░░░ 1
 
 ## 🔒 安全
 
-### 10. ★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator
+### 10. ★ Apple Exclaves and the Secure Design of the MacBook Neo's On-Screen Camera Indicator
 
-[★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator](https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator) — **daringfireball.net** · 1 天前 · ⭐ 22/30
+[★ Apple Exclaves and the Secure Design of the MacBook Neo's On-Screen Camera Indicator](https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator) — **daringfireball.net** · 1 天前 · ⭐ 22/30
 
-> ★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator
+> ★ Apple Exclaves and the Secure Design of the MacBook Neo's On-Screen Camera Indicator
 
 🏷️ Apple, security, camera, hardware
 
