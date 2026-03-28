@@ -1,7 +1,7 @@
 ---
 title: "AI 博客每日精选 — 2026-03-28"
 date: 2026-03-28T18:00:00+08:00
-tags: [文章摘要，日报，apple, user experience, hardware]
+tags: [文章摘要，日报，Apple, AI/ML, 开源]
 series: []
 featured: true
 ---
@@ -10,41 +10,47 @@ featured: true
 
 <!--more-->
 
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
+## 🏆 今日必读 Top 3
 
----
+### 🥇 Vibe coding SwiftUI apps is a lot of fun
 
-## 🏆 今日必读
+**来源**: simonwillison.net · 12 小时前 · 🤖 AI / ML
 
-🥇 **意图升级**
+Apple 在 Mac Pro 即将迎来 50 周年之际宣布停产该产品，这一决定被解读为 Apple 对下一个 50 年的战略声明。Mac Pro 曾是专业计算领域的标志性产品，其终结标志着 Apple 从传统模块化工作站向高度集成方向的转型。此举反映出 Apple 对计算未来的重新定义——强调自研芯片的垂直整合能力而非可扩展性。
 
-[Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) — simonwillison.net · 12 小时前 · 🤖 AI / ML
-
-> Apple 在 Mac Pro 即将迎来 50 周年之际宣布停产该产品，这一决定被解读为 Apple 对下一个 50 年的战略声明。Mac Pro 曾是专业计算领域的标志性产品，其终结标志着 Apple 从传统模块化工作站向高度集成方向的转型。此举反映出 Apple 对计算未来的重新定义——强调自研芯片的垂直整合能力而非可扩展性。
-
-💡 **为什么值得读**: 对于关注 Apple 产品战略和技术行业历史的人来说，这篇分析提供了关于 Apple 如何通过产品线取舍来传达长期愿景的洞察。
+**为什么值得读**: 对于关注 Apple 产品战略和技术行业历史的人来说，这篇分析提供了关于 Apple 如何通过产品线取舍来传达长期愿景的洞察。
 
 🏷️ LLM, SwiftUI, vibe coding, local AI
 
-🥈 **引用 Richard Fontana 谈 chardet 许可问题**
+[阅读原文](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/)
 
-[Apple Says It's Not Aware of Lockdown Mode Ever Having Been Exploited](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/) — daringfireball.net · 9 小时前 · 🔒 安全
+---
 
-> LGPLv3 合著者 Richard Fontana 就 chardet 库的许可问题发表看法，认为目前没有充分依据要求 chardet 7.0.0 必须以 LGPL 发布。他指出，尚未有人确认 7.0.0 版本中保留了早期版本的可版权表达材料，也没有人提出其他可行的违规理论。这一讨论涉及开源 relicensing 的边界问题，以及如何认定衍生作品中的版权要素。
+### 🥈 Apple Lockdown Mode Security Analysis
 
-💡 **为什么值得读**: 对开源许可证和软件许可问题感兴趣的技术人员可以通过这篇引用了解 GPL 家族许可的复杂性和法律边界。
+**来源**: daringfireball.net · 9 小时前 · 🔒 安全
+
+LGPLv3 合著者 Richard Fontana 就 chardet 库的许可问题发表看法，认为目前没有充分依据要求 chardet 7.0.0 必须以 LGPL 发布。他指出，尚未有人确认 7.0.0 版本中保留了早期版本的可版权表达材料，也没有人提出其他可行的违规理论。这一讨论涉及开源 relicensing 的边界问题，以及如何认定衍生作品中的版权要素。
+
+**为什么值得读**: 对开源许可证和软件许可问题感兴趣的技术人员可以通过这篇引用了解 GPL 家族许可的复杂性和法律边界。
 
 🏷️ Apple, Lockdown Mode, security, privacy
 
-🥉 **放大器的时代**
+[阅读原文](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
 
-[datasette-showboat 0.1a2](https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything) — simonwillison.net · 10 小时前 · 🛠 工具 / 开源
+---
 
-> 20 世纪大部分时期，贝尔实验室（AT&T 旗下）一直是美国首屈一指的工业研究实验室，在通信技术、物理学和计算机科学领域做出了开创性贡献。贝尔实验室的建立标志着工业研究与学术研究融合的开端，其发明成果奠定了现代信息社会的基础。
+### 🥉 datasette-showboat 0.1a2
 
-💡 **为什么值得读**: 对科技史和技术产业演变感兴趣的读者可以通过这篇了解塑造当代信息时代的基础研究机构及其影响。
+**来源**: simonwillison.net · 10 小时前 · 🛠 工具 / 开源
+
+20 世纪大部分时期，贝尔实验室（AT&T 旗下）一直是美国首屈一指的工业研究实验室，在通信技术、物理学和计算机科学领域做出了开创性贡献。贝尔实验室的建立标志着工业研究与学术研究融合的开端，其发明成果奠定了现代信息社会的基础。
+
+**为什么值得读**: 对科技史和技术产业演变感兴趣的读者可以通过这篇了解塑造当代信息时代的基础研究机构及其影响。
 
 🏷️ datasette, data visualization, markdown, open source
+
+[阅读原文](https://simonwillison.net/2026/Mar/27/datasette-showboat/)
 
 ---
 
@@ -56,213 +62,213 @@ featured: true
 
 ### 分类分布
 
-```mermaid
-pie showData
-    title "文章分类分布"
-    "⚙️ 工程" : 4
-    "💡 观点 / 杂谈" : 3
-    "📝 其他" : 3
-    "🤖 AI / ML" : 2
-    "🛠 工具 / 开源" : 2
-    "🔒 安全" : 1
-```
+- ⚙️ 工程：4 篇
+- 💡 观点 / 杂谈：3 篇
+- 📝 其他：3 篇
+- 🤖 AI / ML：2 篇
+- 🛠 工具 / 开源：2 篇
+- 🔒 安全：1 篇
 
 ### 高频关键词
 
-```mermaid
-xychart-beta horizontal
-    title "高频关键词"
-    x-axis ["apple", "user experience", "hardware", "llm", "swiftui", "vibe coding", "local ai", "lockdown mode", "security", "privacy", "datasette", "data visualization"]
-    y-axis "出现次数" 0 --> 4
-    bar [2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-```
-
-<details>
-<summary>📈 纯文本关键词图（终端友好）</summary>
-
-```
-apple           │ ████████████████████ 2
-user experience │ ████████████████████ 2
-hardware        │ ████████████████████ 2
-llm             │ ██████████░░░░░░░░░░ 1
-swiftui         │ ██████████░░░░░░░░░░ 1
-vibe coding     │ ██████████░░░░░░░░░░ 1
-local ai        │ ██████████░░░░░░░░░░ 1
-lockdown mode   │ ██████████░░░░░░░░░░ 1
-security        │ ██████████░░░░░░░░░░ 1
-privacy         │ ██████████░░░░░░░░░░ 1
-```
-
-</details>
-
-### 🏷️ 话题标签
-
-**apple**(2) · **user experience**(2) · **hardware**(2) · llm(1) · swiftui(1) · vibe coding(1) · local ai(1) · lockdown mode(1) · security(1) · privacy(1) · datasette(1) · data visualization(1) · markdown(1) · open source(1) · ai assistant(1) · e-commerce(1) · shopping(1) · ai bubble(1) · investment(1) · openai(1)
+apple (2), user experience (2), hardware (2), llm, swiftui, vibe coding, local ai, lockdown mode, security, privacy, datasette, data visualization
 
 ---
 
 ## ⚙️ 工程
 
-### 1. 仅用实数函数计算复数参数的三角函数
+### 1. Computing sine and cosine of complex arguments with only real functions
 
-[Computing sine and cosine of complex arguments with only real functions](https://www.johndcook.com/blog/2026/03/27/complex-argument/) — **johndcook.com** · 22 小时前 · ⭐ 18/30
+**来源**: johndcook.com · 22 小时前 · ⭐ 18/30
 
-> 当计算器或数学库只支持实数参数时，如何计算 sin(3+4i) 这类复数三角函数？文章介绍了使用纯实数函数实现复数三角运算的数学方法，可用于没有 NumPy 等库的 Python 环境。
+当计算器或数学库只支持实数参数时，如何计算 sin(3+4i) 这类复数三角函数？文章介绍了使用纯实数函数实现复数三角运算的数学方法，可用于没有 NumPy 等库的 Python 环境。
 
 🏷️ complex numbers, trigonometry, math library, Python
 
+[阅读原文](https://www.johndcook.com/blog/2026/03/27/complex-argument/)
+
 ---
 
-### 2. 用树莓派 FireWire HAT 复活 MiniDV
+### 2. Bring back MiniDV with this Raspberry Pi FireWire HAT
 
-[Bring back MiniDV with this Raspberry Pi FireWire HAT](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/) — **jeffgeerling.com** · 19 小时前 · ⭐ 17/30
+**来源**: jeffgeerling.com · 19 小时前 · ⭐ 17/30
 
-> 作者展示如何使用新的 FireWire HAT 配合 PiSugar3 Plus 电池模块，制作便携式 MRU（Memory Recording Unit）来替代旧款 DV 摄像机中的磁带。相较于闲鱼上约 300 美元的 Sony HVR-MRC1，这是一个更具性价比的解决方案。
+作者展示如何使用新的 FireWire HAT 配合 PiSugar3 Plus 电池模块，制作便携式 MRU（Memory Recording Unit）来替代旧款 DV 摄像机中的磁带。相较于闲鱼上约 300 美元的 Sony HVR-MRC1，这是一个更具性价比的解决方案。
 
 🏷️ Raspberry Pi, FireWire, hardware, MiniDV
 
+[阅读原文](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/)
+
 ---
 
-### 3. 如果对话框想拦截自己的消息循环怎么办？
+### 3. What if a dialog wants to intercept its own message loop?
 
-[What if a dialog wants to intercept its own message loop?](https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172) — **devblogs.microsoft.com/oldnewthing** · 19 小时前 · ⭐ 17/30
+**来源**: devblogs.microsoft.com/oldnewthing · 19 小时前 · ⭐ 17/30
 
-> 探讨如何让对话框捕获并处理自身的 Windows 消息循环，而非交给所有者窗口处理的技术实现方法。
+探讨如何让对话框捕获并处理自身的 Windows 消息循环，而非交给所有者窗口处理的技术实现方法。
 
 🏷️ Win32, message loop, dialog, Windows
+
+[阅读原文](https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172)
 
 ---
 
 ### 4. Quoting Richard Fontana
 
-[Quoting Richard Fontana](https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 16/30
+**来源**: simonwillison.net · 12 小时前 · ⭐ 16/30
 
-> <blockquote cite="https://github.com/chardet/chardet/issues/334#issuecomment-4098524555"><p>FWIW, IANDBL, TINLA, etc., I don't currently see any basis for concluding that chardet 7.0.0 is required to 
+关于 chardet 库许可问题的讨论，涉及 LGPL 开源许可证的法律边界和衍生作品认定标准。
 
 🏷️ LGPL, open source license, chardet, legal
+
+[阅读原文](https://simonwillison.net/2026/Mar/27/richard-fontana/)
 
 ---
 
 ## 💡 观点 / 杂谈
 
-### 5. 「好品味」只是经验
+### 5. Premium: How Much Of The AI Bubble Is Real?
 
-[Premium: How Much Of The AI Bubble Is Real?](https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/) — **wheresyoured.at** · 16 小时前 · ⭐ 19/30
+**来源**: wheresyoured.at · 16 小时前 · ⭐ 19/30
 
-> 人们常将「好品味」误解为一种先天的内在特质，但实际上它只是通过大量练习积累的经验。人们常把通过反复实践获得的能力误认为是某种神秘的天赋。这种认知偏差导致对专业技能的盲目崇拜，而忽视了其背后可复制的学习过程。
+人们常将「好品味」误解为一种先天的内在特质，但实际上它只是通过大量练习积累的经验。这种认知偏差导致对专业技能的盲目崇拜，而忽视了其背后可复制的学习过程。
 
 🏷️ AI bubble, investment, OpenAI, Disney
+
+[阅读原文](https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/)
 
 ---
 
 ### 6. An Intention Upgrade
 
-[An Intention Upgrade](https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary) — **tedium.co** · 17 小时前 · ⭐ 17/30
+**来源**: tedium.co · 17 小时前 · ⭐ 17/30
 
-> By ditching the Mac Pro so close to its 50th anniversary, Apple is making a statement of intent for its next 50 years.
+By ditching the Mac Pro so close to its 50th anniversary, Apple is making a statement of intent for its next 50 years.
 
 🏷️ Apple, Mac Pro, strategy, hardware
+
+[阅读原文](https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary)
 
 ---
 
 ### 7. "Good Taste" Is Just Experience
 
-["Good Taste" Is Just Experience](https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/) — **terriblesoftware.org** · 14 小时前 · ⭐ 15/30
+**来源**: terriblesoftware.org · 14 小时前 · ⭐ 15/30
 
-> What people call "good taste" is really just experience earned through reps. Stop making it sound innate.
+What people call "good taste" is really just experience earned through reps. Stop making it sound innate.
 
 🏷️ experience, good taste, learning, skill development
+
+[阅读原文](https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/)
 
 ---
 
 ## 📝 其他
 
-### 8. 苹果宣布将在 Apple Maps 推出广告
+### 8. Apple Announces Ads Are Coming to Apple Maps
 
-[Apple Announces Ads Are Coming to Apple Maps](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) — **daringfireball.net** · 9 小时前 · ⭐ 17/30
+**来源**: daringfireball.net · 9 小时前 · ⭐ 17/30
 
-> 苹果宣布今年夏季起在美国和加拿大推出 Apple Maps 广告服务，企业可通过 Apple Business 在 Maps 中创建广告，出现在搜索结果顶部和"推荐地点"中。苹果强调广告不会关联用户 Apple 账户，位置数据保留在设备端不收集不上传。
+苹果宣布今年夏季起在美国和加拿大推出 Apple Maps 广告服务，企业可通过 Apple Business 在 Maps 中创建广告，出现在搜索结果顶部和"推荐地点"中。苹果强调广告不会关联用户 Apple 账户，位置数据保留在设备端不收集不上传。
 
 🏷️ Apple Maps, ads, business
+
+[阅读原文](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/)
 
 ---
 
 ### 9. The Age of the Amplifier
 
-[The Age of the Amplifier](https://www.construction-physics.com/p/the-age-of-the-amplifier) — **construction-physics.com** · 21 小时前 · ⭐ 16/30
+**来源**: construction-physics.com · 21 小时前 · ⭐ 16/30
 
-> As we've noted more than a few times before, for most of the 20th century AT&T's Bell Labs was the premier industrial research lab in the US.
+As we've noted more than a few times before, for most of the 20th century AT&T's Bell Labs was the premier industrial research lab in the US.
 
 🏷️ Bell Labs, amplifier, AT&T, technology history
+
+[阅读原文](https://www.construction-physics.com/p/the-age-of-the-amplifier)
 
 ---
 
 ### 10. System shock
 
-[System shock](https://aresluna.org/system-shock) — **aresluna.org** · 18 小时前 · ⭐ 16/30
+**来源**: aresluna.org · 18 小时前 · ⭐ 16/30
 
-> A story of a 25-year-old font coming back with a vengeance. (New version of an essay originally posted in October 2015. 1,100 words.)
+A story of a 25-year-old font coming back with a vengeance. (New version of an essay originally posted in October 2015. 1,100 words.)
 
 🏷️ System Shock, font, typography, game design
+
+[阅读原文](https://aresluna.org/system-shock)
 
 ---
 
 ## 🤖 AI / ML
 
-### 11. 意图升级
+### 11. Vibe coding SwiftUI apps is a lot of fun
 
-[Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 23/30
+**来源**: simonwillison.net · 12 小时前 · ⭐ 23/30
 
-> Apple 在 Mac Pro 即将迎来 50 周年之际宣布停产该产品，这一决定被解读为 Apple 对下一个 50 年的战略声明。Mac Pro 曾是专业计算领域的标志性产品，其终结标志着 Apple 从传统模块化工作站向高度集成方向的转型。此举反映出 Apple 对计算未来的重新定义——强调自研芯片的垂直整合能力而非可扩展性。
+Apple 在 Mac Pro 即将迎来 50 周年之际宣布停产该产品，这一决定被解读为 Apple 对下一个 50 年的战略声明。Mac Pro 曾是专业计算领域的标志性产品，其终结标志着 Apple 从传统模块化工作站向高度集成方向的转型。
 
 🏷️ LLM, SwiftUI, vibe coding, local AI
 
+[阅读原文](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything)
+
 ---
 
-### 12. 系统冲击
+### 12. An AI Odyssey, Part 3: Lost Needle in the Haystack
 
-[An AI Odyssey, Part 3: Lost Needle in the Haystack](https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/) — **johndcook.com** · 17 小时前 · ⭐ 19/30
+**来源**: johndcook.com · 17 小时前 · ⭐ 19/30
 
-> 一个诞生 25 年的经典字体在当下强势回归，重新获得设计师和开发者的关注。这篇文章是 2015 年原始文章的更新版本，探讨了该字体如何跨越时代保持设计价值和实用性，以及经典设计在数字时代持续生命力的原因。
+一个诞生 25 年的经典字体在当下强势回归，重新获得设计师和开发者的关注。这篇文章是 2015 年原始文章的更新版本，探讨了该字体如何跨越时代保持设计价值和实用性。
 
 🏷️ AI assistant, e-commerce, shopping, user experience
+
+[阅读原文](https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/)
 
 ---
 
 ## 🛠 工具 / 开源
 
-### 13. 放大器的时代
+### 13. datasette-showboat 0.1a2
 
-[datasette-showboat 0.1a2](https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 21/30
+**来源**: simonwillison.net · 10 小时前 · ⭐ 21/30
 
-> 20 世纪大部分时期，贝尔实验室（AT&T 旗下）一直是美国首屈一指的工业研究实验室，在通信技术、物理学和计算机科学领域做出了开创性贡献。贝尔实验室的建立标志着工业研究与学术研究融合的开端，其发明成果奠定了现代信息社会的基础。
+20 世纪大部分时期，贝尔实验室（AT&T 旗下）一直是美国首屈一指的工业研究实验室，在通信技术、物理学和计算机科学领域做出了开创性贡献。
 
 🏷️ datasette, data visualization, markdown, open source
 
+[阅读原文](https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything)
+
 ---
 
-### 14. 苹果给予与索取
+### 14. ★ Apple Giveth, Apple Taketh Away
 
-[★ Apple Giveth, Apple Taketh Away](https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away) — **daringfireball.net** · 13 小时前 · ⭐ 18/30
+**来源**: daringfireball.net · 13 小时前 · ⭐ 18/30
 
-> MacOS 26 Tahoe 系统的 Safari 不再破坏菜单栏图标显示，但之前用来屏蔽 MacOS 15 Sequoia 升级提示的最佳技巧已失效。作者探讨了苹果系统更新中的这一变化。
+MacOS 26 Tahoe 系统的 Safari 不再破坏菜单栏图标显示，但之前用来屏蔽 MacOS 15 Sequoia 升级提示的最佳技巧已失效。
 
 🏷️ Safari, macOS, user experience, UI
+
+[阅读原文](https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away)
 
 ---
 
 ## 🔒 安全
 
-### 15. 引用 Richard Fontana 谈 chardet 许可问题
+### 15. Apple Says It's Not Aware of Lockdown Mode Ever Having Been Exploited
 
-[Apple Says It's Not Aware of Lockdown Mode Ever Having Been Exploited](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/) — **daringfireball.net** · 9 小时前 · ⭐ 23/30
+**来源**: techcrunch.com · 9 小时前 · ⭐ 23/30
 
-> LGPLv3 合著者 Richard Fontana 就 chardet 库的许可问题发表看法，认为目前没有充分依据要求 chardet 7.0.0 必须以 LGPL 发布。他指出，尚未有人确认 7.0.0 版本中保留了早期版本的可版权表达材料，也没有人提出其他可行的违规理论。这一讨论涉及开源 relicensing 的边界问题，以及如何认定衍生作品中的版权要素。
+LGPLv3 合著者 Richard Fontana 就 chardet 库的许可问题发表看法，认为目前没有充分依据要求 chardet 7.0.0 必须以 LGPL 发布。
 
 🏷️ Apple, Lockdown Mode, security, privacy
 
+[阅读原文](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
+
 ---
 
-*生成于 2026-03-28 09:48 | 扫描 86 源 → 获取 2472 篇 → 精选 15 篇*
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*生成于 2026-03-28 | 扫描 86 源 → 获取 2472 篇 → 精选 15 篇*
+
+*基于 Hacker News Popularity Contest 2025 RSS 源列表，由 Andrej Karpathy 推荐*
+
 *由「懂点儿 AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
