@@ -1,7 +1,7 @@
 ---
 title: "AI 博客每日精选 — 2026-04-11"
 date: 2026-04-11T12:00:00+08:00
-tags: [文章摘要, 日报, llm, windows api, win32, ai security, vulnerabilities]
+tags: [文章摘要, 日报, AI, LLM, 安全]
 series: []
 featured: true
 ---
@@ -59,6 +59,16 @@ pie showData
     "🤖 AI / ML" : 3
     "🔒 安全" : 2
     "🛠 工具 / 开源" : 1
+```
+
+### 高频关键词
+
+```mermaid
+xychart-beta horizontal
+    title "高频关键词"
+    x-axis ["llm", "windows api", "win32", "ai security", "vulnerabilities", "exploits", "gpt-2", "cloud training", "model optimization", "ai safety", "frontier models", "cybersecurity"]
+    y-axis "出现次数" 0 --> 4
+    bar [2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 ```
 
 ### 🏷️ 话题标签
