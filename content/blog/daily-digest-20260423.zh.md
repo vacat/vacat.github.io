@@ -1,16 +1,12 @@
----
-title: "AI 博客每日精选 — 2026-04-23"
-date: 2026-04-23T09:30:00+08:00
-tags: [文章摘要, 日报, llm, "github copilot", anthropic, pricing, "gpt-2", "token billing", microsoft, "claude code", subscription, hallucination, "image generation", openai, ai, multimodal, transformer]
-series: []
-featured: true
----
+# 📰 AI 博客每日精选 — 2026-04-23
+
+> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 20
+
+## 📝 今日看点
 
 今日AI领域呈现商业化加速与技术突破并行的态势：微软Copilot全面转向Token计费，Anthropic调整Claude Code权限，显示AI编码工具正从免费扩张转向精细化变现；与此同时，Qwen3.6-27B以27B参数实现旗舰级编程性能，ChatGPT Images 2.0图像生成能力大幅提升，表明小模型蒸馏与多模态生成技术持续突破。苹果公司宣布Tim Cook将于2026年9月转任执行董事长，硬件工程高级副总裁John Ternus接任CEO，成为苹果50年历史上第八任领导者。
 
-<!--more-->
-
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 20
+---
 
 ## 🏆 今日必读
 
@@ -290,7 +286,7 @@ hallucination  │ ████████░░░░░░░░░░░░ 
 
 [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/) — **krebsonsecurity.com** · 1 天前 · ⭐ 22/30
 
-> 24 岁的英国公民 Tyler Robert Buchanan 是网络犯罪集团「Scattered Spider」的高级成员，对串谋电信欺诈和严重身份盗窃罪名认罪。他承认参与了 2022 夏天的短信钓鱼攻击，该攻击导致团伙入侵了至少十几家大型科技公司，从投资者手中窃取了价值数千万美元的加密货币。
+> 24 岁的英国公民 Tyler Robert Buchanan 是网络犯罪集团「Scattered Spider」的高级成员，对串谋电信欺诈和严重身份盗窃罪名认罪。他承认参与了 2022 年夏天的短信钓鱼攻击，该攻击导致团伙入侵了至少十几家大型科技公司，从投资者手中窃取了价值数千万美元的加密货币。
 
 🏷️ Scattered Spider, cybersecurity, phishing, fraud
 
