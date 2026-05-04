@@ -1,17 +1,17 @@
 ---
 title: "AI 博客每日精选 — 2026-04-17"
 date: 2026-04-17T06:25:15+08:00
-tags: [文章摘要，日报，llm，gemini，tts]
+tags: [llm, gemini]
+categories: ["技术日报"]
 series: []
-featured: true
 ---
 
-今日技术圈聚焦三大趋势：本地大模型部署取得突破，Qwen3.6-35B可在普通笔记本运行并超越Claude表现；同时Google发布Gemini 3.1 Flash TTS，进一步推动边缘AI应用。工程领域迎来更新周期，Zig 0.16.0发布，SQLAlchemy 2深耕高级关系模型，Simdutf实现与C++标准库解耦。安全方面，AI网络安全讨论升温，datasette项目以Sec-Fetch-Site头部替代传统CSRF token机制。
+今日技术圈聚焦三大趋势：本地llm部署取得突破,Qwen3.6-35B可在普通笔记本运行并超越Claude表现；同时Google发布Gemini 3.1 Flash TTS,进一步推动边缘AI应用。工程领域迎来更新周期,Zig 0.16.0发布,SQLAlchemy 2深耕高级关系模型,Simdutf实现与C++标准库解耦。安全方面 ,AI网络安全讨论升温,datasette项目以Sec-Fetch-Site头部替代传统CSRF token机制。
 
 <!--more-->
 
 
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
+> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10
 
 ## 🏆 今日必读
 
@@ -198,5 +198,5 @@ local model    │ ███████░░░░░░░░░░░░░ 
 ---
 
 *生成于 2026-04-17 22:25 | 扫描 79 源 → 获取 2368 篇 → 精选 10 篇*
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
-*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
+*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表,由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*由「懂点儿AI」制作,欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*

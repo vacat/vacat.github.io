@@ -1,14 +1,14 @@
 ---
 title: "AI 博客每日精选 — 2026-03-01"
 date: 2026-03-01T18:00:00+08:00
-tags: [文章摘要, 日报, AI, 安全, TechBeacon]
+tags: [ai, security]
+categories: ["技术日报"]
 series: []
-featured: true
 ---
 
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
+> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10
 
-今日AI圈继续上演"反思潮"：从AI编程代理的实际效用存疑，到ChatGPT用户流失，再到Anthropic陷入伦理争议，业界正重新审视AI工具的真正价值与边界。与此同时，安全话题热度不减——Kimwolf僵尸网络背后黑手身份曝光，passkeys加密方案也被曝存在隐患，提醒开发者勿盲目追新。工程实践方面，交互式解释和HTTP Range请求优化等技术细节持续受到关注。
+今日AI圈继续上演"反思潮"：从AI编程代理的实际效用存疑,到ChatGPT用户流失,再到Anthropic陷入伦理争议,业界正重新审视AI工具的真正价值与边界。与此同时,安全话题热度不减——Kimwolf僵尸网络背后黑手身份曝光,passkeys加密方案也被曝存在隐患,提醒开发者勿盲目追新。工程实践方面,交互式解释和HTTP Range请求优化等技术细节持续受到关注。
 
 <!--more-->
 ---
@@ -161,15 +161,15 @@ featured: true
 
 ## 📝 其他
 
-### 10. Why Apple's move to video could endanger podcasting's greatest power
+### 10. Why "apple"'s move to video could endanger podcasting's greatest power
 
-[Why Apple's move to video could endanger podcasting's greatest power](https://anildash.com/2026/02/28/apple-video-podcast-power/) — **anildash.com** · 1 天前 · ⭐ 22/30
+[Why "apple"'s move to video could endanger podcasting's greatest power](https://anildash.com/2026/02/28/apple-video-podcast-power/) — **anildash.com** · 1 天前 · ⭐ 22/30
 
-> Why Apple's move to video could endanger podcasting's greatest power
+> Why "apple"'s move to video could endanger podcasting's greatest power
 
-🏷️ Apple, podcasting, open standard, platform
+🏷️ "apple", podcasting, open standard, platform
 
 ---
 
 *生成于 2026-03-01 09:05 | 扫描 81 源 → 获取 2334 篇 → 精选 10 篇*
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表,由 [Andrej Karpathy](https://x.com/karpathy) 推荐*

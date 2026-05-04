@@ -1,17 +1,17 @@
 ---
 title: "AI 博客每日精选 — 2026-05-02"
 date: 2026-05-02T06:18:36+08:00
-tags: [文章摘要，日报，ai]
+tags: [daily-digest]
+categories: ["技术日报"]
 series: []
-featured: true
 ---
 
-今日技术圈聚焦三大趋势：AI安全与伦理争议持续升温，OpenAI GPT-5.5网络能力评估引关注，同时Zig项目明确反对AI贡献代码，行业对AI生成代码质量与可信度的讨论也在深化；AI编程工具持续迭代，Codex CLI新增goal功能，反映开发者对AI辅助编程效率的更高期待；此外，英国NHS与开源的对抗、巴西ISP遭DDoS攻击等事件，也反映出技术实践与行业监管间的深层矛盾。
+今日技术圈聚焦三大趋势：AI安全与伦理争议持续升温,OpenAI GPT-5.5网络能力评估引关注,同时Zig项目明确反对AI贡献代码,行业对AI生成代码质量与可信度的讨论也在深化；AI编程工具持续迭代,Codex CLI新增goal功能,反映开发者对AI辅助编程效率的更高期待；此外,英国NHS与开源的对抗、巴西ISP遭DDoS攻击等事件,也反映出技术实践与行业监管间的深层矛盾。
 
 <!--more-->
 
 
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
+> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10
 
 ## 🏆 今日必读
 
@@ -124,13 +124,13 @@ zig                   │ ██████████░░░░░░░░
 
 ---
 
-### 4. ★ On the Future of Apple’s Vision Platform
+### 4. ★ On the Future of "apple"’s Vision Platform
 
-[★ On the Future of Apple’s Vision Platform](https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform) — **daringfireball.net** · 22 小时前 · ⭐ 21/30
+[★ On the Future of "apple"’s Vision Platform](https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform) — **daringfireball.net** · 22 小时前 · ⭐ 21/30
 
-> ★ On the Future of Apple’s Vision Platform
+> ★ On the Future of "apple"’s Vision Platform
 
-🏷️ Apple Vision, AR/VR, Platform
+🏷️ "apple" Vision, AR/VR, Platform
 
 ---
 
@@ -201,5 +201,5 @@ zig                   │ ██████████░░░░░░░░
 ---
 
 *生成于 2026-05-02 22:18 | 扫描 88 源 → 获取 2537 篇 → 精选 10 篇*
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
-*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
+*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表,由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*由「懂点儿AI」制作,欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*

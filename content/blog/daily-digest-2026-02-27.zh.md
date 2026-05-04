@@ -1,14 +1,14 @@
 ---
 title: "AI 博客每日精选 — 2026年2月27日"
 date: 2026-02-27T18:00:00+08:00
-tags: [文章摘要, 日报, AI技术, Anthropic, Claude Code, AI安全]
+tags: [ai, anthropic, "ai-security", claude, "coding-agents"]
+categories: ["技术日报"]
 series: []
-featured: true
 ---
 
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
+> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10
 
-今日技术圈聚焦三大趋势：一是AI风险意识持续升温，从"人类临界点"的宏观警示到Anthropic与五角大楼的紧张关系，行业对AI安全与地缘政治风险的讨论日趋深刻；二是AI开发范式正在演变，Claude Code远程控制、vibe coding等新工具和理念兴起，反映开发者对AI辅助编程的更高期待；三是基础设施安全再引关注，Google API密钥策略调整暴露了云服务安全机制的演进需求。
+今日技术圈聚焦三大趋势：一是AI风险意识持续升温,从"人类临界点"的宏观警示到Anthropic与五角大楼的紧张关系,行业对AI安全与地缘政治风险的讨论日趋深刻；二是AI开发范式正在演变,Claude Code远程控制、vibe coding等新工具和理念兴起,反映开发者对AI辅助编程的更高期待；三是基础设施安全再引关注,Google API密钥策略调整暴露了云服务安全机制的演进需求。
 
 <!--more-->
 
@@ -159,16 +159,16 @@ featured: true
 
 ## ⚙️ 工程
 
-### 10. Git in Postgres
+### 10. "git" in Postgres
 
-[Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html) — **nesbitt.io** · 1 天前 · ⭐ 22/30
+["git" in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html) — **nesbitt.io** · 1 天前 · ⭐ 22/30
 
-> Git in Postgres
+> "git" in Postgres
 
-🏷️ Git, Postgres, database, version control
+🏷️ "git", Postgres, database, version control
 
 ---
 
 *生成于 2026-02-27 15:52 | 扫描 89 源 → 获取 2508 篇 → 精选 10 篇*  
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*  
-*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
+*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表,由 [Andrej Karpathy](https://x.com/karpathy) 推荐*  
+*由「懂点儿AI」制作,欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*

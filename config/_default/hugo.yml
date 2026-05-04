@@ -4,3 +4,4 @@ services:
 taxonomies:
   series: series
   tag: tags
+  category: categories

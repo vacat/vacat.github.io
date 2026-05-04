@@ -1,12 +1,12 @@
 ---
 title: "AI 博客每日精选 — 2026-04-22"
 date: 2026-04-22T06:30:00+08:00
-tags: [文章摘要, 日报, llm]
+tags: [daily-digest]
+categories: ["技术日报"]
 series: []
-featured: true
 ---
 
-今日技术圈聚焦三大趋势：AI编码代理（Coding Agents）进入实战探索阶段，开发者正尝试用AI智能体替代传统编程流程；同时，LLM从零构建的技术细节持续深入，干预机制的研究趋于系统化；此外，关于AI风险的讨论升温，"AI末日"论调引发业界反思语言模型对开发范式的深层影响。
+今日技术圈聚焦三大趋势：AI编码代理（Coding Agents）进入实战探索阶段,开发者正尝试用AI智能体替代传统编程流程；同时 ,LLM从零构建的技术细节持续深入,干预机制的研究趋于系统化；此外,关于AI风险的讨论升温,"AI末日"论调引发业界反思语言模型对开发范式的深层影响。
 
 <!--more-->
 
@@ -126,11 +126,11 @@ compilers             │ ██████████░░░░░░░░
 
 ---
 
-### 5. Trump on Tim Apple
+### 5. Trump on Tim "apple"
 
-[Trump on Tim Apple](https://truthsocial.com/@realDonaldTrump/posts/116442276577696798) — **daringfireball.net** · 3 小时前 · ⭐ 15/30
+[Trump on Tim "apple"](https://truthsocial.com/@realDonaldTrump/posts/116442276577696798) — **daringfireball.net** · 3 小时前 · ⭐ 15/30
 
-> Trump on Tim Apple
+> Trump on Tim "apple"
 
 ---
 
@@ -193,5 +193,5 @@ compilers             │ ██████████░░░░░░░░
 ---
 
 *生成于 2026-04-22 06:33 | 扫描 88 源 → 获取 2532 篇 → 精选 10 篇*
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
-*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
+*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表,由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*由「懂点儿AI」制作,欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*

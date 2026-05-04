@@ -1,17 +1,17 @@
 ---
 title: "AI 博客每日精选 — 2026-04-27"
 date: 2026-04-27T06:22:04+08:00
-tags: [文章摘要，日报，gpt-5.5]
+tags: [daily-digest]
+categories: ["技术日报"]
 series: []
-featured: true
 ---
 
-今日技术圈聚焦三大趋势：AI领域继续迭代，GPT-5.5 prompting guide和llm 0.31相继发布，提示工程和模型工具仍是开发者关注焦点；安全领域Bitwarden详解加密机制，引发对密码管理可靠性的讨论；同时C/C++依赖管理迎来突破性进展。三星移动部门可能被RAM crisis击垮，首次出现年度亏损，行业格局再添变数。技术社区对自动化价值的反思也在持续发酵。
+今日技术圈聚焦三大趋势：AI领域继续迭代,GPT-5.5 prompting guide和llm 0.31相继发布,提示工程和模型工具仍是开发者关注焦点；安全领域Bitwarden详解加密机制,引发对密码管理可靠性的讨论；同时C/C++依赖管理迎来突破性进展。三星移动部门可能被RAM crisis击垮,首次出现年度亏损,行业格局再添变数。技术社区对自动化价值的反思也在持续发酵。
 
 <!--more-->
 
 
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
+> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10
 
 ## 🏆 今日必读
 
@@ -112,7 +112,7 @@ unified model │ ██████████░░░░░░░░░░ 1
 
 > ★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition
 
-🏷️ Apple, CEO, Tim Cook, journalism
+🏷️ "apple", CEO, Tim Cook, journalism
 
 ---
 
@@ -207,5 +207,5 @@ unified model │ ██████████░░░░░░░░░░ 1
 ---
 
 *生成于 2026-04-27 22:22 | 扫描 88 源 → 获取 2532 篇 → 精选 10 篇*
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
-*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
+*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表,由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*由「懂点儿AI」制作,欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*

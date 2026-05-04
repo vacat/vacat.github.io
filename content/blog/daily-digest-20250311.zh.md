@@ -1,12 +1,12 @@
 ---
 title: "AI 博客每日精选 — 2026-03-11"
 date: 2026-03-11T22:55:00+08:00
-tags: [文章摘要, 日报, ai, privacy, llm, smart glasses]
+tags: [ai, privacy, llm]
+categories: ["技术日报"]
 series: []
-featured: true
 ---
 
-今日安全领域聚焦微软例行补丁更新与Anthropic起诉美国政府事件，反映出AI监管博弈升级；与此同时，AI编码工具引发的宕机事故、LLM幻觉及训练数据隐私争议集中爆发，揭示出当前大模型在可靠性与伦理层面面临严峻挑战；Meta AI眼镜被曝非洲承包商可窥视用户数据，则将科技巨头的隐私安全问题再次推上风口浪尖。
+今日安全领域聚焦微软例行补丁更新与Anthropic起诉美国政府事件,反映出AI监管博弈升级；与此同时 ,AI编码工具引发的宕机事故、LLM幻觉及训练数据隐私争议集中爆发,揭示出当前llm在可靠性与伦理层面面临严峻挑战；Meta AI眼镜被曝非洲承包商可窥视用户数据,则将科技巨头的隐私安全问题再次推上风口浪尖。
 
 <!--more-->
 
@@ -36,7 +36,7 @@ featured: true
 
 > Low-Wage Contractors in Kenya See What Users See While Using Meta's AI Smart Glasses
 
-🏷️ privacy, Meta, smart glasses, AI
+🏷️ privacy, Meta, "smart-glasses", AI
 
 ---
 
@@ -62,14 +62,14 @@ pie showData
 ```mermaid
 xychart-beta horizontal
     title "高频关键词"
-    x-axis ["ai", "privacy", "llm", "smart glasses", "microsoft", "security", "vulnerabilities", "patch tuesday", "coding", "programming", "meta", "ai coding tools"]
+    x-axis ["ai", "privacy", "llm", ""smart-glasses"", "microsoft", "security", "vulnerabilities", "patch tuesday", "coding", "programming", "meta", "ai coding tools"]
     y-axis "出现次数" 0 --> 7
     bar [5, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1]
 ```
 
 ### 🏷️ 话题标签
 
-**ai**(5) · **privacy**(3) · **llm**(2) · smart glasses(2) · microsoft(1) · security(1) · vulnerabilities(1) · patch tuesday(1) · coding(1) · programming(1) · meta(1) · ai coding tools(1) · outages(1) · reliability(1) · anthropic(1) · lawsuit(1) · us government(1) · ai regulation(1) · data breach(1) · hibp(1)
+**ai**(5) · **privacy**(3) · **llm**(2) · "smart-glasses"(2) · microsoft(1) · security(1) · vulnerabilities(1) · patch tuesday(1) · coding(1) · programming(1) · meta(1) · ai coding tools(1) · outages(1) · reliability(1) · anthropic(1) · lawsuit(1) · us government(1) · ai regulation(1) · data breach(1) · hibp(1)
 
 ---
 
@@ -91,7 +91,7 @@ xychart-beta horizontal
 
 > Low-Wage Contractors in Kenya See What Users See While Using Meta's AI Smart Glasses
 
-🏷️ privacy, Meta, smart glasses, AI
+🏷️ privacy, Meta, "smart-glasses", AI
 
 ---
 
@@ -133,7 +133,7 @@ xychart-beta horizontal
 
 > Where did you think the training data was coming from?
 
-🏷️ AI, privacy, training data, smart glasses
+🏷️ AI, privacy, training data, "smart-glasses"
 
 ---
 
@@ -182,5 +182,5 @@ xychart-beta horizontal
 ---
 
 *生成于 2026-03-11 13:56 | 扫描 88 源 → 获取 2486 篇 → 精选 10 篇*
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
-*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
+*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表,由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*由「懂点儿AI」制作,欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*

@@ -1,17 +1,17 @@
 ---
 title: "AI 博客每日精选 — 2026-04-21"
 date: 2026-04-21T06:28:28+08:00
-tags: [文章摘要，日报，ai agents，claude]
+tags: ["ai-agent"]
+categories: ["技术日报"]
 series: []
-featured: true
 ---
 
-今日技术圈聚焦三大趋势：AI Agent生态加速成熟，WorkOS推出专门针对AI代理的授权层，同时个人AI助手正向“无头化”架构演进；大模型工具商业化步伐加快，Microsoft将GitHub Copilot转向token计费模式，预示AI编程助手将进入精细化收费阶段；传统工具与AI的融合也在加速，Figma深度整合Claude Design，Google Sheets新增SQL查询能力，AI正成为各类效率工具的标准配置。
+今日技术圈聚焦三大趋势：AI Agent生态加速成熟,WorkOS推出专门针对AI代理的授权层,同时个人AI助手正向“无头化”架构演进；llm工具商业化步伐加快,Microsoft将"git"Hub Copilot转向token计费模式,预示AI编程助手将进入精细化收费阶段；传统工具与AI的融合也在加速,Figma深度整合Claude Design,Google Sheets新增SQL查询能力 ,AI正成为各类效率工具的标准配置。
 
 <!--more-->
 
 
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10
+> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10
 
 ## 🏆 今日必读
 
@@ -31,13 +31,13 @@ featured: true
 
 🏷️ AI agents, authorization, FGA, enterprise AI
 
-🥉 **Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits**
+🥉 **Exclusive: Microsoft To Shift "git"Hub Copilot Users To Token-Based Billing, Tighten Rate Limits**
 
-[Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/) — wheresyoured.at · 5 小时前 · 🤖 AI / ML
+[Exclusive: Microsoft To Shift "git"Hub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/) — wheresyoured.at · 5 小时前 · 🤖 AI / ML
 
-> Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits
+> Exclusive: Microsoft To Shift "git"Hub Copilot Users To Token-Based Billing, Tighten Rate Limits
 
-🏷️ GitHub Copilot, token billing, Microsoft, AI tools
+🏷️ "git"Hub Copilot, token billing, Microsoft, AI tools
 
 ---
 
@@ -104,13 +104,13 @@ token billing  │ ██████████░░░░░░░░░░ 
 
 ---
 
-### 2. Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits
+### 2. Exclusive: Microsoft To Shift "git"Hub Copilot Users To Token-Based Billing, Tighten Rate Limits
 
-[Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/) — **wheresyoured.at** · 5 小时前 · ⭐ 26/30
+[Exclusive: Microsoft To Shift "git"Hub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/) — **wheresyoured.at** · 5 小时前 · ⭐ 26/30
 
-> Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits
+> Exclusive: Microsoft To Shift "git"Hub Copilot Users To Token-Based Billing, Tighten Rate Limits
 
-🏷️ GitHub Copilot, token billing, Microsoft, AI tools
+🏷️ "git"Hub Copilot, token billing, Microsoft, AI tools
 
 ---
 
@@ -201,5 +201,5 @@ token billing  │ ██████████░░░░░░░░░░ 
 ---
 
 *生成于 2026-04-21 22:28 | 扫描 88 源 → 获取 2534 篇 → 精选 10 篇*
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
-*由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
+*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表,由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*由「懂点儿AI」制作,欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*

@@ -21,18 +21,18 @@ zh:
       - name: 文章
         url: /blog
         weight: 1
-      - name: 生活
-        url: /art
-        weight: 2
+      - name: 商业分析
+        url: /categories/商业分析
+        weight: 1
+      - name: 技术洞察
+        url: /categories/技术洞察
+        weight: 1
+      - name: 技术日报
+        url: /categories/技术日报
+        weight: 1
       - name: 标签
         url: /tags
         weight: 3
-      - name: 历史
-        url: /archives
-        weight: 4
-      #- name: 留言板
-      #  url: /guestbook
-      #  weight: 4
       - name: 统计
         url: https://umami-five-ruby.vercel.app/share/LZBeTsMNrOU5Jtdc/vacat.github.io
         weight: 5

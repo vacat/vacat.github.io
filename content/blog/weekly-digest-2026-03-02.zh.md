@@ -1,21 +1,21 @@
 ---
 title: "AI 博客每周精选 - 2026 年 3 月 2 日"
 date: 2026-03-02T10:00:00+08:00
-tags: [文章摘要，周报，AI]
-featured: true
+tags: [daily-digest]
+categories: ["技术日报"]
 ---
 
-本周精选 15 篇 AI 与技术领域高质量文章，涵盖 AI 编码代理实践、passkeys 安全警示、开源社区支持等热点话题。欢迎阅读！
+本周精选 15 篇 AI 与技术领域高质量文章,涵盖 AI 编码代理实践、passkeys 安全警示、开源社区支持等热点话题。欢迎阅读！
 
 <!--more-->
 
 # 📰 AI 博客每周精选 — 2026 年 3 月 2 日
 
-> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
+> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 15
 
 ## 📝 本周看点
 
-本周 AI 编码代理成为技术圈焦点，从深度实践到理性质疑形成热烈讨论；安全领域发出重要警示，passkeys 加密数据的潜在风险引发广泛关注；主流 AI 厂商持续加大开源社区支持力度，Anthropic 宣布向大型开源项目维护者免费提供 Claude Max。
+本周 AI 编码代理成为技术圈焦点,从深度实践到理性质疑形成热烈讨论；安全领域发出重要警示,passkeys 加密数据的潜在风险引发广泛关注；主流 AI 厂商持续加大开源社区支持力度,Anthropic 宣布向大型开源项目维护者免费提供 Claude Max。
 
 ---
 
@@ -25,7 +25,7 @@ featured: true
 
 [Interactive explanations](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) — simonwillison.net · 🤖 AI / ML
 
-> Simon Willison 详解智能体工程模式，探讨 AI agents 在工程实践中的应用模式与认知债务问题。
+> Simon Willison 详解智能体工程模式,探讨 AI agents 在工程实践中的应用模式与认知债务问题。
 
 🏷️ AI agents, engineering patterns, cognitive debt, LLM
 
@@ -33,7 +33,7 @@ featured: true
 
 [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything) — simonwillison.net · 🤖 AI / ML
 
-> 一位 AI 编码怀疑论者深度体验 AI 编码代理的详细记录，包含实践中的洞察与反思。
+> 一位 AI 编码怀疑论者深度体验 AI 编码代理的详细记录,包含实践中的洞察与反思。
 
 🏷️ AI coding, AI agents, programming, skepticism
 
@@ -41,7 +41,7 @@ featured: true
 
 [Please, please, please stop using passkeys for encrypting user data](https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything) — simonwillison.net · 🔒 安全
 
-> 重要安全警示：passkeys 设计用于身份验证而非数据加密，误用可能导致用户数据永久丢失。
+> 重要安全警示：passkeys 设计用于身份验证而非数据加密,误用可能导致用户数据永久丢失。
 
 🏷️ passkeys, encryption, data loss, security
 
@@ -86,7 +86,7 @@ xychart-beta horizontal
 
 [Interactive explanations](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) — **simonwillison.net** · ⭐ 25/30
 
-> 详解智能体工程模式，包括 AI agents 在工程实践中的应用、认知债务等核心概念。
+> 详解智能体工程模式,包括 AI agents 在工程实践中的应用、认知债务等核心概念。
 
 🏷️ AI agents, engineering patterns, cognitive debt, LLM
 
@@ -96,7 +96,7 @@ xychart-beta horizontal
 
 [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything) — **simonwillison.net** · ⭐ 25/30
 
-> AI 编码怀疑论者的深度实践记录，详细记录使用 AI 编码代理的体验与反思。
+> AI 编码怀疑论者的深度实践记录,详细记录使用 AI 编码代理的体验与反思。
 
 🏷️ AI coding, AI agents, programming, skepticism
 
@@ -148,7 +148,7 @@ xychart-beta horizontal
 
 [Please, please, please stop using passkeys for encrypting user data](https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything) — **simonwillison.net** · ⭐ 23/30
 
-> 重要安全警示：passkeys 不应用于加密用户数据，存在数据丢失风险。
+> 重要安全警示：passkeys 不应用于加密用户数据,存在数据丢失风险。
 
 🏷️ passkeys, encryption, data loss, security
 
@@ -190,12 +190,12 @@ xychart-beta horizontal
 
 ## 📈 趋势观察
 
-1. **AI 编码代理成熟度讨论**: 技术圈从盲目追捧转向理性评估，Simon Willison 和 Max Woolf 等权威人士发布深度实践报告
-2. **安全警钟**: passkeys 误用风险被广泛传播，提醒开发者正确使用认证技术
-3. **开源支持**: Anthropic 等 AI 厂商加大对开源社区的投入，形成良性生态
+1. **AI 编码代理成熟度讨论**: 技术圈从盲目追捧转向理性评估,Simon Willison 和 Max Woolf 等权威人士发布深度实践报告
+2. **安全警钟**: passkeys 误用风险被广泛传播,提醒开发者正确使用认证技术
+3. **开源支持**: Anthropic 等 AI 厂商加大对开源社区的投入,形成良性生态
 
 ---
 
 *生成于 2026-03-02 | 扫描 80 源 → 获取 2273 篇 → 精选 15 篇*
-*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
-*由「懂点儿 AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
+*基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表,由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
+*由「懂点儿 AI」制作,欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
