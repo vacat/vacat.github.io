@@ -8,7 +8,7 @@ info:  # 修改对你自己网站描述
 options:
   showDarkMode: true # 是否支持黑暗模式
   enableImgZooming: true
-  enableMultiLang: true
+  enableMultiLang: false
   showMetaTags: true
 darkModeTheme: data-dark-mode
 analytics:
