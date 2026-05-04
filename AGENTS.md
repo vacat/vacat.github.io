@@ -48,10 +48,52 @@
 - **主题修改**: 在 `hugo-theme-ladder-skycatc` 中进行，不修改原始主题
 - **主题更新**: `git submodule update --remote`
 
+## TAG 规范
+
+**英文 tag**：全小写，空格用 `-` 连接
+```
+ai, llm, mcp, kv-cache, ai-agent, ai-coding, ai-security, daily-digest
+```
+
+**中文 tag**：保留中文公司名和专有概念
+```
+阿里巴巴, 美团, 京东, 财报分析, 具身智能, 外卖, 人形机器人
+```
+
+**禁止**：
+- 重复词：`人形人形机器人`
+- 大小写混乱：`ai-agents`, `Ai-Agent`, `LLM`
+- 双重括号格式：`tags: [[a, b]]`（正确：`tags: [a, b]`）
+- 空 tag：至少有一个 tag，空文章默认 `daily-digest`
+
+**同义合并**：
+- `外卖业务` → `外卖`
+- `机器人` → `人形机器人`
+- `大模型` / `大语言模型` → `llm`
+- `ai-agents` → `ai-agent`
+
 ## ANTI-PATTERNS
 
 - 不要修改 `themes/hugo-theme-ladder/` 或 `themes/ananke/`（仅作参考）
 - 不要在 `content/blog/zh/` 目录创建内容（当前使用根级 `.zh.md`）
+
+## GIT 工作流
+
+```bash
+# 子模块修改需要单独提交
+cd themes/hugo-theme-ladder-skycatc && git add layouts/ && git commit -m "fix: ..." && git push
+
+# 主仓库提交（排除噪声文件）
+git add config/ content/blog/archetypes/
+git diff --cached --stat  # 先预览
+git commit -m "fix: ..."
+git push
+```
+
+**噪声文件（不提交）**：
+- `.playwright-mcp/` - 浏览器测试日志
+- `*.png` - 截图
+- `*.log` - 临时日志
 
 ## COMMANDS
 
@@ -68,3 +110,10 @@ hugo new blog/en/post.en.md # 新建英文文章
 - 评论系统：Giscus（repo: vacat/vacat.github.io）
 - 统计：Umami（独立部署）
 - 主题子模块更新后需 `git submodule update --init --recursive`
+
+## HUGO 注意点
+
+- **长 Summary 截断**：在 `head.html` 中截断前必须检查长度，否则 `substr` 会越界崩溃
+- **子模块提交**：子模块内的修改需要单独 commit + push，主仓库不会自动包含
+- **空 tags**：文章 tags 不能为空，至少填一个（默认 `daily-digest`）
+- **格式检查**：`tags: [[a, b]]` 是错误格式，正确为 `tags: [a, b]`
