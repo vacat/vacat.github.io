@@ -10,8 +10,6 @@ featured: true
 > **题记：** "Agents aren't hard; the Harness is hard."  
 > — Ryan Lopopolo,OpenAI Codex 团队
 
-<!--more-->
-
 ## 引言：当模型不是瓶颈
 
 过去两年 ,AI 工程师们花了大量时间优化 prompt、设计 context window、调试 RAG 方案。但越来越多团队发现：**换了更强模型之后,问题并没有消失。**

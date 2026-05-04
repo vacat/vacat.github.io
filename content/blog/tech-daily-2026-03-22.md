@@ -11,8 +11,6 @@ featured = false
 
 > 本周聚焦：Agent框架生态整合加速,Tesla Optimus Gen 3亮相,生成式推荐（GenRec）工业落地进入深水区
 
-<!--more-->
-
 ---
 
 ## 📊 本周回顾 (3.16-3.22)

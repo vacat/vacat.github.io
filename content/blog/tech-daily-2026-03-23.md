@@ -9,8 +9,6 @@ series: []
 
 > 为甲文（Javen）准备的每日技术情报,聚焦llm、Agent、具身智能与生成式推荐四大方向。
 
-<!--more-->
-
 ## 一、llm/LLM 进展
 
 ### 1. 中国llmToken调用量首超美国

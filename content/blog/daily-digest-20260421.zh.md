@@ -8,9 +8,6 @@ series: []
 
 今日技术圈聚焦三大趋势：AI Agent生态加速成熟,WorkOS推出专门针对AI代理的授权层,同时个人AI助手正向“无头化”架构演进；llm工具商业化步伐加快,Microsoft将"git"Hub Copilot转向token计费模式,预示AI编程助手将进入精细化收费阶段；传统工具与AI的融合也在加速,Figma深度整合Claude Design,Google Sheets新增SQL查询能力 ,AI正成为各类效率工具的标准配置。
 
-<!--more-->
-
-
 > 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10
 
 ## 🏆 今日必读

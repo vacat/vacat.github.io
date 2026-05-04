@@ -14,8 +14,6 @@ series: []
 - **MCP协议成为AI Agent事实标准**：NIST将其列为优先标准候选,OpenAI、Google、Microsoft全面支持
 - **快手PIT tokenizer大规模上线**：端到端生成式推荐取得新突破,App停留时长提升0.402%
 
-<!--more-->
-
 ---
 
 ## 🤖 人形机器人与具身智能

@@ -8,9 +8,6 @@ series: []
 
 今日 AI 技术圈呈现三大趋势：一是llm轻量化提速,GPT-5.5 与 Qwen3.6-27B 等小参数高性能模型密集发布,API 开放加速推动 AI 编程能力边界持续扩展；二是 AI 编程工具商业化动荡加剧,"git"Hub Copilot 转向 token 计费、Claude Code 定价反复、Individual 计划收紧,折射出行业在商业模型上的探索焦虑；三是 AI 安全治理成为焦点,Anthropic Mythos 模型出现未授权访问漏洞,而 Mozilla 与其合作修复 Firefox 高危漏洞形成对比,安全管控能力建设已迫在眉睫。
 
-<!--more-->
-
-
 > 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10
 
 ## 🏆 今日必读

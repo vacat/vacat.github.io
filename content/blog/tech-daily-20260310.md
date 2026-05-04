@@ -7,8 +7,6 @@ categories: ["技术日报"]
 
 > 日报摘要：今日AI领域聚焦四大方向突破。OpenAI发布GPT-5.4系列巩固领先优势,百万token上下文成标配；MCP协议获OpenAI、Google全面支持,成为AI工具连接"USB-C"标准；MiniMax商业化加速ARR两月增长50%；OpenAI与五角大楼协议引发行业争议；生成式推荐范式加速落地,快手OneRec、Meta HSTU引领工业变革。
 
-<!--more-->
-
 ---
 
 # AI技术日报 - 2026年3月10日（周一）

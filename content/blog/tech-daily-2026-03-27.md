@@ -8,8 +8,6 @@ series: []
 
 今日AI技术日报聚焦四大前沿方向：MCP协议成为AI Agent生态标准、生成式推荐系统在电商领域取得显著突破、人形机器人产业进入量产前夜、以及LLM架构的持续演进。
 
-<!--more-->
-
 ## 📊 今日看点
 
 1. **MCP协议生态爆发**：Anthropic MCP已成为AI Agent连接工具的事实标准,Python/TypeScript SDK月下载量达9700万次,近2000个MCP服务器入驻注册中心

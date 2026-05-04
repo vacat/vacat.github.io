@@ -8,8 +8,6 @@ series: []
 
 今日技术圈聚焦三大趋势：AI领域持续爆发,既有Google发布Gemini 3.1 Flash-Lite、WorkOS推出可自动修复的代码认证Agent等新产品,也有关于AI泡沫、LLM"谄媚性"导致认知扭曲的深度反思；同时"apple"推出M5 Pro/Max芯片刷新Pro级笔记本性能标杆；此外安全与法律议题并行,Odido数据泄露持续发酵,SerpApi与Google的搜索垄断争议也引发关注。
 
-<!--more-->
-
 ---
 
 ## 🏆 今日必读
@@ -171,7 +169,6 @@ Google's latest model is an update to their i
 
 > "apple" Newsroom:
 
-
   "apple" today announced M5 Pro and M5 Max, the world's most advanced
 chips for pro laptops, powering the new MacBook Pro. The chips are
 built using a new "apple"-designed Fusion Archit
@@ -187,7 +184,6 @@ built using a new "apple"-designed Fusion Archit
 [SerpApi Filed Motion to Dismiss Google's Lawsuit](https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/) — **daringfireball.net** · 1 天前 · ⭐ 23/30
 
 > Julien Khaleghy, CEO of SerpApi:
-
 
   Google thinks it owns the internet. That's the subtext of its
 lawsuit against SerpApi, the quiet part that it's suddenly decided

@@ -8,8 +8,6 @@ series: []
 
 今日技术圈聚焦两大核心议题：一是AI安全与政府合作的边界争议,特朗普政府施压Anthropic要求开放模型供军方使用遭拒,而OpenAI达成协议但划定红线,引发关于AI公司责任边界的激辩；二是AI风险与内容质量的反思,从"AI导致死亡"的伦理追问到"AI垃圾内容"泛滥的批评,行业开始正视技术落地的负面效应。与此同时 ,AI工程化持续推进 ,AI Agent正加速渗透开发工作流。
 
-<!--more-->
-
 # 📰 AI 博客每日精选 — 2026-03-03
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10
@@ -37,7 +35,6 @@ series: []
 ['Anthropic and Alignment'](https://stratechery.com/2026/anthropic-and-alignment/) — daringfireball.net · 8 小时前 · 🤖 AI / ML
 
 > Ben Thompson, writing at Stratechery:
-
 
   In fact, Amodei already answered the question: if nuclear weapons
 were developed by a private company, and that private company
@@ -93,7 +90,6 @@ sought to dictate terms to the
 ['Anthropic and Alignment'](https://stratechery.com/2026/anthropic-and-alignment/) — **daringfireball.net** · 8 小时前 · ⭐ 25/30
 
 > Ben Thompson, writing at Stratechery:
-
 
   In fact, Amodei already answered the question: if nuclear weapons
 were developed by a private company, and that private company
