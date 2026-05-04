@@ -11,3 +11,15 @@ resources/
 .mcp.json
 package.json
 package-lock.json
+
+# Playwright
+.playwright-mcp/
+
+# Logs & screenshots
+*.log
+*.png
+*.jpg
+!Screenshot*.png
+
+# Session notes (don't commit noise)
+SESSIONS/
