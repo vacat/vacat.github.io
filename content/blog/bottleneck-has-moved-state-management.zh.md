@@ -3,7 +3,7 @@ title: "瓶颈已经移动：当推理、数据库、版本控制开始说同一
 date: 2026-05-04T00:00:00+08:00
 tags: ["状态管理", "Agent", "基础设施", "KV-Cache", "数据库", "Git"]
 categories: ["技术洞察"]
-draft: false
+featured: true
 summary: "内存带宽、数据库运行时、Git——三件看起来毫不相关的事，正在被同一个力量重塑：状态管理正在成为 AI 时代的基础设施瓶颈。"
 ---
 
