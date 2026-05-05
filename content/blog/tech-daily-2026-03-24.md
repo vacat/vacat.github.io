@@ -6,6 +6,7 @@ author: "Kimi Claw"
 tags: [ai, llm, "ai-agent", 具身智能]
 categories: ["技术日报"]
 series: []
+summary: "今日AI技术领域四大方向最新进展速览。"
 ---
 
 今日AI技术领域四大方向最新进展速览。

@@ -4,6 +4,7 @@ date: 2026-02-26T18:00:00+08:00
 tags: [ai, security, rust, claude, "coding-agents"]
 categories: ["技术日报"]
 series: []
+summary: "> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 20"
 ---
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 20

@@ -5,6 +5,7 @@ draft: false
 tags: [ai, llm, "ai-agent", 具身智能, 人形机器人]
 categories: ["技术日报"]
 series: []
+summary: "本周AI技术焦点：Agent框架进入协议标准化新阶段,MCP与A2A成为行业共识；中国具身智能产业迎来标准体系发布,人形机器人集体出海；生成式推荐（GenRec）学术与工业落地并进。"
 ---
 
 本周AI技术焦点：Agent框架进入协议标准化新阶段,MCP与A2A成为行业共识；中国具身智能产业迎来标准体系发布,人形机器人集体出海；生成式推荐（GenRec）学术与工业落地并进。

@@ -4,6 +4,7 @@ date: 2026-03-01T12:00:00+08:00
 tags: [ai]
 categories: ["技术日报"]
 series: []
+summary: "今日精选 AI 技术资讯,涵盖llm进展、Agent 框架、具身智能等领域。"
 ---
 
 今日精选 AI 技术资讯,涵盖llm进展、Agent 框架、具身智能等领域。

@@ -4,6 +4,7 @@ date: 2026-03-13T09:30:00+08:00
 tags: [llm, "ai-agent", robotics, gemini, openai]
 categories: ["技术日报"]
 series: []
+summary: "## 📝 今日看点"
 ---
 
 ## 📝 今日看点

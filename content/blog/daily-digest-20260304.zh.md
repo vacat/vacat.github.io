@@ -4,6 +4,7 @@ date: 2026-03-04T10:00:00+08:00
 tags: [ai, claude]
 categories: ["技术日报"]
 series: []
+summary: "今日技术圈聚焦三大趋势：AI领域持续爆发,既有Google发布Gemini 3.1 Flash-Lite、WorkOS推出可自动修复的代码认证Agent等新产品,也有关于AI泡沫、LLM'谄媚性'导致认知扭曲的深度反思；同时'apple'推出M5 Pro/Max芯片刷新Pro级笔记本性能标杆；此外安全与法律议题并行,Odido数据泄露持续发酵,SerpApi与Google的搜索垄断争议也引发关注。"
 ---
 
 今日技术圈聚焦三大趋势：AI领域持续爆发,既有Google发布Gemini 3.1 Flash-Lite、WorkOS推出可自动修复的代码认证Agent等新产品,也有关于AI泡沫、LLM"谄媚性"导致认知扭曲的深度反思；同时"apple"推出M5 Pro/Max芯片刷新Pro级笔记本性能标杆；此外安全与法律议题并行,Odido数据泄露持续发酵,SerpApi与Google的搜索垄断争议也引发关注。

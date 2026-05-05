@@ -4,6 +4,7 @@ date: 2026-03-17T08:30:00+08:00
 tags: [ai, llm, "ai-agent", 人形机器人]
 categories: ["技术日报"]
 series: []
+summary: "## 📊 今日要点速览"
 ---
 
 ## 📊 今日要点速览

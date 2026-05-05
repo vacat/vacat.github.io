@@ -4,6 +4,7 @@ date: 2026-03-03T10:40:00+08:00
 tags: [ai]
 categories: ["技术日报"]
 series: []
+summary: "## 概述"
 ---
 
 ## 概述

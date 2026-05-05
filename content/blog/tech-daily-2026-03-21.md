@@ -5,6 +5,7 @@ draft: false
 tags: [ai, llm, "ai-agent", 人形机器人]
 categories: ["技术日报"]
 series: []
+summary: "> 本周是AI领域密集发布的一周,GPT-5.4、Claude Opus 4.6、Gemini 3.1 Pro三大旗舰模型在28天内相继发布,标志着AI从'对话工具'向'数字员工'的范式转变。"
 ---
 
 > 本周是AI领域密集发布的一周,GPT-5.4、Claude Opus 4.6、Gemini 3.1 Pro三大旗舰模型在28天内相继发布,标志着AI从"对话工具"向"数字员工"的范式转变。

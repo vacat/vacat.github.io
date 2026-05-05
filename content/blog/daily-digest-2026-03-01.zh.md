@@ -3,6 +3,7 @@ title: "AI 博客每日精选 - 2026 年 03 月 01 日"
 date: 2026-03-01T08:00:00+08:00
 tags: [daily-digest]
 categories: ["技术日报"]
+summary: "> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10"
 ---
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10

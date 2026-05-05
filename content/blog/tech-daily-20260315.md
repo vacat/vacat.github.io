@@ -4,6 +4,7 @@ date: 2026-03-15T18:00:00+08:00
 tags: [llm, "ai-agent", 人形机器人, mcp]
 categories: ["技术日报"]
 series: []
+summary: "## 📝 今日看点"
 ---
 
 ## 📝 今日看点

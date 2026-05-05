@@ -4,6 +4,7 @@ date: 2026-04-17T06:25:15+08:00
 tags: [llm, gemini]
 categories: ["技术日报"]
 series: []
+summary: "今日技术圈聚焦三大趋势：本地llm部署取得突破,Qwen3.6-35B可在普通笔记本运行并超越Claude表现；同时Google发布Gemini 3.1 Flash TTS,进一步推动边缘AI应用。工程领域迎来更新周期,Zig 0.16.0发布,SQLAlchemy 2深耕高级关系模型,Simdutf实现与C++标准库解耦。安全方面 ,AI网络安全讨论升温,datasette项目以Sec-Fetch-Site头部替代传统CSRF token机制。"
 ---
 
 今日技术圈聚焦三大趋势：本地llm部署取得突破,Qwen3.6-35B可在普通笔记本运行并超越Claude表现；同时Google发布Gemini 3.1 Flash TTS,进一步推动边缘AI应用。工程领域迎来更新周期,Zig 0.16.0发布,SQLAlchemy 2深耕高级关系模型,Simdutf实现与C++标准库解耦。安全方面 ,AI网络安全讨论升温,datasette项目以Sec-Fetch-Site头部替代传统CSRF token机制。

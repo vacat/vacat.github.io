@@ -5,6 +5,7 @@ draft: false
 tags: [ai, llm, "ai-agent", 具身智能]
 categories: ["技术日报"]
 series: []
+summary: "本日报精选2026年3月26-28日全球AI领域最新进展,聚焦llm、Agent框架、具身智能、生成式搜推广四大方向。"
 ---
 
 本日报精选2026年3月26-28日全球AI领域最新进展,聚焦llm、Agent框架、具身智能、生成式搜推广四大方向。

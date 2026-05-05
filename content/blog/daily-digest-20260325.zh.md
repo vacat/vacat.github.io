@@ -5,6 +5,7 @@ draft: false
 tags: [ai, llm, "ai-agent", 具身智能]
 categories: ["技术日报"]
 series: []
+summary: "> 为甲文（Javen）整理的 AI 技术日报,聚焦llm、Agent 框架、具身智能与生成式搜推广四大方向。"
 ---
 
 > 为甲文（Javen）整理的 AI 技术日报,聚焦llm、Agent 框架、具身智能与生成式搜推广四大方向。

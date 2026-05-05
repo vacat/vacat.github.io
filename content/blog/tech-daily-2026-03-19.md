@@ -5,6 +5,7 @@ draft: false
 tags: [ai, llm, "ai-agent", 具身智能, 人形机器人]
 categories: ["技术日报"]
 series: []
+summary: "今日AI技术动态速览：llm价格战持续升温,Gemini 3.1 Pro以$2/$12 per MTok刷新性价比；宇树科技王兴兴预言年中人形机器人百米破10秒；Agent框架进入多智能体协作新阶段。"
 ---
 
 今日AI技术动态速览：llm价格战持续升温,Gemini 3.1 Pro以$2/$12 per MTok刷新性价比；宇树科技王兴兴预言年中人形机器人百米破10秒；Agent框架进入多智能体协作新阶段。

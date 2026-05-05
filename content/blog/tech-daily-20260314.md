@@ -4,6 +4,7 @@ date: 2026-03-14T18:00:00+08:00
 tags: [daily-digest]
 categories: ["技术日报"]
 series: []
+summary: "## 📝 今日看点"
 ---
 
 ## 📝 今日看点

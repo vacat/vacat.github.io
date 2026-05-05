@@ -5,6 +5,7 @@ draft: false
 tags: [ai, llm, "ai-agent", 具身智能, 生成式推荐]
 categories: ["技术日报"]
 series: []
+summary: "> 为甲文（Javen）准备的每日技术情报,聚焦llm、Agent、具身智能与生成式推荐四大方向。"
 ---
 
 > 为甲文（Javen）准备的每日技术情报,聚焦llm、Agent、具身智能与生成式推荐四大方向。

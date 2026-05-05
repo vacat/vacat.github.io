@@ -4,6 +4,7 @@ date: 2026-03-16T18:00:00+08:00
 tags: [ai, llm, "ai-agent", 人形机器人, 具身智能]
 categories: ["技术日报"]
 series: []
+summary: "## 📝 今日看点"
 ---
 
 ## 📝 今日看点
