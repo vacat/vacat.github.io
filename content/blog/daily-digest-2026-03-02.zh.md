@@ -4,7 +4,7 @@ date: 2026-03-02T06:18:00+08:00
 tags: [文章摘要, 日报, daily-digest]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "# 📰 AI 博客每日精选 — 2026-03-02"
 ---
 

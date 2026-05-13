@@ -4,7 +4,7 @@ date: 2026-04-10T06:18:00+08:00
 tags: [文章摘要, 日报, ai-agent, package-security]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日技术圈聚焦三大趋势：一是AI安全成焦点,Anthropic因安全风险选择暂不公开Claude Mythos Preview模型,同期AI代理的供应链安全风险引发广泛讨论,Adobe被曝擅自修改系统文件更是加剧了对AI时代软件权限滥用的担忧；二是模型竞争白热化,Meta发布Muse Spark对标顶级闭源模型 ,AI能力格局正在重塑；三是底层系统问题频出,macOS被爆连续运行49天后因32位整数溢出崩溃,暴露系统级隐患。"
 ---
 

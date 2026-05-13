@@ -4,7 +4,7 @@ date: 2026-04-16T06:18:00+08:00
 tags: [文章摘要, 日报, daily-digest]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日安全领域大事频发：微软发布月度补丁修复167个漏洞,Chrome与Adobe同日补齐零日漏洞；OpenAI推出防御专用模型GPT-5.4-Cyber ,AI安全评估报告显示资金投入与漏洞识别效果正相关,安全工作正向'按需付费'模式演变。与之对应的是 ,AI系统问责机制引发热议,'人肉盾牌'或成新型职业角色。AI应用侧,Google发布可精细控制的Gemini 3.1 Flash TTS,Amazon则通过收购Globalstar加速卫星通信布局。"
 ---
 

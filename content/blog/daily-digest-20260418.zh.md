@@ -4,7 +4,7 @@ date: 2026-04-18T06:18:00+08:00
 tags: [文章摘要, 日报, ai, api]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日技术圈呈现三大趋势：一是AI代理能力正在突破边界,Agentic AI已能自主调用安全API进行数据泄露检测,但这类技术被滥用的风险也引发关注；二是开发者工具持续深耕用户体验优化,从SQLAlchemy高级特性到npmx的包管理创新,细节体验成为竞争焦点；三是科技怀旧引发讨论,MP3专利过期与'apple' II发布47周年,提示业界在追逐前沿的同时也回望技术发展的脉络。"
 ---
 

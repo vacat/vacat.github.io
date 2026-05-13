@@ -4,7 +4,7 @@ date: 2026-04-28T06:18:00+08:00
 tags: [文章摘要, 日报, daily-digest]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日AI安全与治理议题升温,OpenAI与微软的AGI条款终止以及行业对AI炒作与安全隐患的反思形成呼应；同时C/C++依赖管理迎来突破性进展,长期困扰开发者的包管理难题有望缓解；密码管理器Bitwarden的加密机制分析及供应链攻击事件则再次敲响安全警钟。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-03-25T06:18:00+08:00
 tags: [文章摘要, 日报, ai, llm, ai-agent, 具身智能]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "> 为甲文（Javen）整理的 AI 技术日报,聚焦llm、Agent 框架、具身智能与生成式搜推广四大方向。"
 ---
 

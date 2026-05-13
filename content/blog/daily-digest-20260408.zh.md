@@ -4,7 +4,7 @@ date: 2026-04-08T06:18:00+08:00
 tags: [文章摘要, 日报, openai]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日AI领域投资热度不减,OpenAI宣布获得1220亿美元承诺资本并规划“超级应用”战略,但其CFO坦言公司尚未准备好IPO,收入能否支撑支出仍是未知数；与此同时,中国AI实验室Z.ai发布7540亿参数的GLM-5.1,展现无提示生成能力,但行业也警告未来18-24个月将面临计算资源短缺危机。安全方面同样不平静,Anthropic因人为失误意外泄露超51万行Claude Code源代码,而德国当局则披露了REvil和GandCrab勒索团伙头目的真实身份。"
 ---
 

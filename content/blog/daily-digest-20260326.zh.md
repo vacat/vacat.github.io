@@ -4,7 +4,7 @@ date: 2026-03-26T06:18:00+08:00
 tags: [文章摘要, 日报, ai, llm, ai-agent, 具身智能]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "## 📰 今日看点"
 ---
 

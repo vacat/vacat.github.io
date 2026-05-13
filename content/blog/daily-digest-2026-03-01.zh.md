@@ -4,7 +4,7 @@ date: 2026-03-01T06:18:00+08:00
 tags: [文章摘要, 日报, daily-digest]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10"
 ---
 

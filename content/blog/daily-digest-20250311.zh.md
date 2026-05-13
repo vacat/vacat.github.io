@@ -4,7 +4,7 @@ date: 2025-03-11T06:18:00+08:00
 tags: [文章摘要, 日报, ai, privacy, llm]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日安全领域聚焦微软例行补丁更新与Anthropic起诉美国政府事件,反映出AI监管博弈升级；与此同时 ,AI编码工具引发的宕机事故、LLM幻觉及训练数据隐私争议集中爆发,揭示出当前llm在可靠性与伦理层面面临严峻挑战；Meta AI眼镜被曝非洲承包商可窥视用户数据,则将科技巨头的隐私安全问题再次推上风口浪尖。"
 ---
 

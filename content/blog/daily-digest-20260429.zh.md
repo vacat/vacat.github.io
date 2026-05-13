@@ -4,7 +4,7 @@ date: 2026-04-29T06:18:00+08:00
 tags: [文章摘要, 日报, openai, microsoft]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日AI圈焦点集中：OpenAI与Microsoft的AGI特殊授权条款于4月底正式终止,同时Musk起诉OpenAI案同日开庭,两家公司关系走向引发行业关注；AI经济模式可持续性问题持续发酵,行业开始反思定价与价值创造逻辑,多篇讨论文章指出当前AI工具隐藏成本风险。开发者工具领域,pip 26.1版本推出依赖锁定功能解决团队协作痛点,Microsoft开源VibeVoice语音识别模型补足多说话者分离能力,而Ghostty终端项目宣布离开'git'Hub平台,具体迁移方向待公布。"
 ---
 

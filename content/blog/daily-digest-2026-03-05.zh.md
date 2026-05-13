@@ -4,7 +4,7 @@ date: 2026-03-05T06:18:00+08:00
 tags: [文章摘要, 日报, daily-digest]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日AI圈呈现'热炒'与'冷思考'并行的格局：一方面 ,AI泡沫、LLM谄媚性问题与AGI临近论的浮夸倾向引发业界反思,信息战视角下行业Reality与宣传的鸿沟正被揭示；另一方面 ,AI代理工程走向务实——从WorkOS直接写入代码的智能集成,到Gemini 3.1 Flash-Lite以1/8 Pro价格强化低成本推理,工具化与商业化进程加速,而'apple' M5芯片的发布则暗示端侧AI算力竞争持续升温。"
 ---
 

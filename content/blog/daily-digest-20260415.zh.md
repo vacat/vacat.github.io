@@ -4,7 +4,7 @@ date: 2026-04-15T06:18:00+08:00
 tags: [文章摘要, 日报, security]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日AI安全领域动作密集：OpenAI推出专为网络防御训练的GPT-5.4-Cyber变体,WorkOS发布针对AI代理的细粒度授权方案,而AISI的最新评估显示安全审查正沦为“资金竞赛”,投入越多漏洞发现越多。与此同时,Meta将创始人形象AI化用于内部沟通,折射出企业AI落地的差异化竞争已从模型能力转向可信度与授权管理。浏览器与Web生态亦有监管动向,Google明确将后退按钮劫持列为恶意行为将于6月处罚。"
 ---
 

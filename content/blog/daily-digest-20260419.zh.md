@@ -4,7 +4,7 @@ date: 2026-04-19T06:18:00+08:00
 tags: [文章摘要, 日报, llm]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日技术圈呈现AI与工程并进的态势：Agentic AI应用、低精度量化（FP4）、LLM训练优化等技术持续推进,反映出llm落地与效率提升仍是核心方向；PyCon US 2026新增AI与安全Track,佐治亚投票系统争议则折射出技术在实际场景中的复杂挑战。"
 ---
 

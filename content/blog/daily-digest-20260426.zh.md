@@ -4,7 +4,7 @@ date: 2026-04-26T06:18:00+08:00
 tags: [文章摘要, 日报, gpt-5-5, openai]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日技术圈呈现两大llm阵营角力：OpenAI发布GPT-5.5并与Codex系统统一,强化agentic coding能力；同时DeepSeek推出V4系列,以百万token上下文和1.6T参数规模主打高性价比开源路线。Anthropic则澄清了Claude Code近期质量下降原因,系harness中定时清除思考过程的bug导致“健忘”。技术圈同时在反思AI学习顺序与进化的悖论,以及AI在大众中受欢迎程度下降的深层原因。"
 ---
 

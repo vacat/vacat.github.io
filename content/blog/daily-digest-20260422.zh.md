@@ -4,7 +4,7 @@ date: 2026-04-22T06:18:00+08:00
 tags: [文章摘要, 日报, daily-digest]
 categories: ["技术日报"]
 series: []
-featured: true
+featured: false
 summary: "今日技术圈聚焦三大趋势：AI编码代理（Coding Agents）进入实战探索阶段,开发者正尝试用AI智能体替代传统编程流程；同时 ,LLM从零构建的技术细节持续深入,干预机制的研究趋于系统化；此外,关于AI风险的讨论升温,'AI末日'论调引发业界反思语言模型对开发范式的深层影响。"
 ---
 
