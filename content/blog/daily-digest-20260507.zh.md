@@ -1,9 +1,11 @@
 ---
 title: "AI 博客每日精选 — 2026-05-07"
-date: 2026-05-07T06:18:12+08:00
-tags: [文章摘要，日报，claude]
+date: 2026-05-07T06:18:00+08:00
+tags: [文章摘要, 日报, claude]
+categories: ["技术日报"]
 series: []
 featured: true
+summary: "> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10"
 ---
 
 今日技术圈聚焦三大趋势：AI安全与治理问题持续发酵，从_open weights逐渐封闭到自主Agent被质疑为"混乱"，反映出行业对AI失控风险的深层担忧；与此同时，AI编程工具加速演进，Claude等AI伴侣正向开发流程深度渗透，vibe coding与agentic工程化路径的争论浮出水面；法律层面，马斯克起诉OpenAI一案也将其商业化路径与开源承诺的矛盾推至台前。

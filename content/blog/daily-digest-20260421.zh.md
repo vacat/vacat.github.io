@@ -1,9 +1,10 @@
 ---
 title: "AI 博客每日精选 — 2026-04-21"
-date: 2026-04-21T06:28:28+08:00
-tags: ["ai-agent"]
+date: 2026-04-21T06:18:00+08:00
+tags: [文章摘要, 日报, ai-agent]
 categories: ["技术日报"]
 series: []
+featured: true
 summary: "今日技术圈聚焦三大趋势：AI Agent生态加速成熟,WorkOS推出专门针对AI代理的授权层,同时个人AI助手正向“无头化”架构演进；llm工具商业化步伐加快,Microsoft将'git'Hub Copilot转向token计费模式,预示AI编程助手将进入精细化收费阶段；传统工具与AI的融合也在加速,Figma深度整合Claude Design,Google Sheets新增SQL查询能力 ,AI正成为各类效率工具的标准配置。"
 ---
 

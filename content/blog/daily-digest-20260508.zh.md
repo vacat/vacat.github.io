@@ -1,9 +1,11 @@
 ---
 title: "AI 博客每日精选 — 2026-05-08"
-date: 2026-05-08T06:18:15+08:00
-tags: [文章摘要，日报，security，anthropic，ai]
+date: 2026-05-08T06:18:00+08:00
+tags: [文章摘要, 日报, security, anthropic, ai]
+categories: ["技术日报"]
 series: []
 featured: true
+summary: "> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10"
 ---
 
 今日技术圈呈现三大核心趋势：一是AI驱动的安全范式正在转变，Mozilla利用Claude模型大幅提升漏洞修复效率，但同时青少年黑客组织带来的新型网络威胁也暴露了执法框架的滞后性；二是AI行业面临生态整合压力，xAI数据中心的环境争议与开源权重模型的关闭风险，标志着行业发展进入成本与责任并重的新阶段；三是人机协作模式持续演变，vibe coding与agentic工程正在融合，监管与创新的速度差距也在扩大。

@@ -1,9 +1,11 @@
 ---
 title: "AI 博客每日精选 — 2026-05-12"
-date: 2026-05-12T06:18:27+08:00
-tags: [文章摘要，日报，data breach]
+date: 2026-05-12T06:18:00+08:00
+tags: [文章摘要, 日报, data breach]
+categories: ["技术日报"]
 series: []
 featured: true
+summary: "> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10"
 ---
 
 今日AI圈集中爆发信任危机：Meta被曝用员工操作数据训练AI、《纽约时报》严肃澄清AI生成假引言事故，同时“僵尸互联网”概念引发对AI内容泛滥的精神消耗担忧。另一方面，工程界重新审视AI编码工具价值——James Shore指出若不能同步降低维护成本，单纯提产只会增加长期负担；Shopify则尝试以完全透明的“教学工坊”模式对抗AI黑箱。安全层面，Instructure数据泄露倒计时与哥斯达黎加政府加入HIBP监控形成对照。

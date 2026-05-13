@@ -1,9 +1,10 @@
 ---
-title: "AI 博客每日精选 — 2026年2月27日"
-date: 2026-02-27T18:00:00+08:00
-tags: [ai, anthropic, "ai-security", claude, "coding-agents"]
+title: "AI 博客每日精选 — 2026-02-27"
+date: 2026-02-27T06:18:00+08:00
+tags: [文章摘要, 日报, ai, anthropic, ai-security, claude, coding-agents]
 categories: ["技术日报"]
 series: []
+featured: true
 summary: "> 来自 Karpathy 推荐的 92 个顶级技术博客 ,AI 精选 Top 10"
 ---
 

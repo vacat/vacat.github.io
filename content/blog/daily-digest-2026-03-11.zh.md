@@ -1,9 +1,10 @@
 ---
-title: "技术日报 - 2026年3月11日"
-date: 2026-03-11T22:30:00+08:00
-tags: [ai, llm, 具身智能]
+title: "AI 博客每日精选 — 2026-03-11"
+date: 2026-03-11T06:18:00+08:00
+tags: [文章摘要, 日报, ai, llm, 具身智能]
 categories: ["技术日报"]
 series: []
+featured: true
 summary: "## 📌 今日看点"
 ---
 

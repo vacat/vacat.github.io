@@ -1,9 +1,10 @@
 ---
 title: "AI 博客每日精选 — 2026-04-27"
-date: 2026-04-27T06:22:04+08:00
-tags: [daily-digest]
+date: 2026-04-27T06:18:00+08:00
+tags: [文章摘要, 日报, daily-digest]
 categories: ["技术日报"]
 series: []
+featured: true
 summary: "今日技术圈聚焦三大趋势：AI领域继续迭代,GPT-5.5 prompting guide和llm 0.31相继发布,提示工程和模型工具仍是开发者关注焦点；安全领域Bitwarden详解加密机制,引发对密码管理可靠性的讨论；同时C/C++依赖管理迎来突破性进展。三星移动部门可能被RAM crisis击垮,首次出现年度亏损,行业格局再添变数。技术社区对自动化价值的反思也在持续发酵。"
 ---
 

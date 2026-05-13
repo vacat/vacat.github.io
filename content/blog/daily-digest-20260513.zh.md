@@ -1,9 +1,11 @@
 ---
 title: "AI 博客每日精选 — 2026-05-13"
-date: 2026-05-13T06:18:25+08:00
-tags: [文章摘要，日报，ai，ai coding agent]
+date: 2026-05-13T06:18:00+08:00
+tags: [文章摘要, 日报, ai, ai coding agent]
+categories: ["技术日报"]
 series: []
 featured: true
+summary: "> 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 10"
 ---
 
 今日技术圈呈现三大趋势：AI安全的双刃剑效应凸显——AI在代码漏洞发现上表现卓越的同时，也因生成虚假引用、扭曲人类写作能力而引发信任危机；AI工程实践进入深水区，ShopierRiver的“教学工坊”模式和Thinking Machines的交互模型，显示行业从单纯追逐模型能力转向关注真实协作与实时交互；与此同时，科技企业正加速战略调整，GitLab因应AI代理时代重组，iOS开放第三方设备接口以应对欧盟监管，硬币的另一面是合规成本与市场压力的同步上升。

@@ -1,9 +1,10 @@
 ---
 title: "AI 博客每日精选 — 2026-03-17"
-date: 2026-03-17T06:22:05+08:00
-tags: [ai, "coding-agents"]
+date: 2026-03-17T06:18:00+08:00
+tags: [文章摘要, 日报, ai, coding-agents]
 categories: ["技术日报"]
 series: []
+featured: true
 summary: "今日AI圈呈现两大核心趋势：一是行业开始反思单纯 scaling 路径的局限性,Sam Altman 罕见承认需重大突破才能实现 AGI,同时 Meta 因 AI 成本飙升计划大规模裁员,苹果则选择退出军备竞赛；二是代理工程（Agentic Engineering）正在崛起,多篇文章探讨编码代理如何工作以及在数据分析中的应用,预示 AI 从工具向自主执行者的转变。此外,Claude 推出百万级上下文窗口也标志着长文本处理能力迈上新台阶。"
 ---
 
