@@ -5,6 +5,7 @@ tags: [ai, "ai-agent"]
 categories: ["技术洞察"]
 series: []
 featured: true
+summary: "Harness 是围绕 AI Agent 的脚手架、约束机制和反馈循环，决定了 agent 的解决方案空间。当模型不再是瓶颈，Harness 工程成为 AI Agent 军备竞赛的关键战场。本文综合 OpenAI、Anthropic、Mitchell Hashimoto 等一线团队的实践，探讨前馈/反馈控制机制、最佳实践，以及 Claude Code 的 Harness 架构案例。"
 ---
 
 > **题记：** "Agents aren't hard; the Harness is hard."  
