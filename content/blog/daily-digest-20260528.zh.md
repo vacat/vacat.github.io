@@ -5,7 +5,7 @@ tags: [文章摘要, 日报, ai bubble]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "今日技术圈呈现三大热点：一是AI投资回报率引发争议，优步直言未看到AI成本增长对应的生产力提升，与Anthropic、OpenAI实现盈利形成对比，行业提效叙�"
+summary: '今日技术圈呈现三大热点：一是AI投资回报率引发争议，优步直言未看到AI成本增长对应的生产力提升，与Anthropic、OpenAI实现盈利形成对比，行业提效叙事正遭受质疑；二是AI安全威胁持续升级，curl团队安全报告激增至去年4-5倍，Microsoft Copilot亦曝严重漏洞，全球泄露监测网络继续扩张；三是匿名新秀Hy3强势登顶OpenRouter榜单，以未知身份实现压倒性性能优势，为竞争'
 ---
 
 今日技术圈呈现三大热点：一是AI投资回报率引发争议，优步直言未看到AI成本增长对应的生产力提升，与Anthropic、OpenAI实现盈利形成对比，行业提效叙事正遭受质疑；二是AI安全威胁持续升级，curl团队安全报告激增至去年4-5倍，Microsoft Copilot亦曝严重漏洞，全球泄露监测网络继续扩张；三是匿名新秀Hy3强势登顶OpenRouter榜单，以未知身份实现压倒性性能优势，为竞争激烈的模型格局增添悬念。

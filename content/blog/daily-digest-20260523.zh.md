@@ -5,7 +5,7 @@ tags: [文章摘要, 日报]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "今日技术圈呈现两大核心议题：一是AI智能体加速落地，谷歌在I/O 2026正式推出Gemini Spark个人AI代理，标志着行业进入Agentic AI时代；二是安全风险集中爆�"
+summary: '今日技术圈呈现两大核心议题：一是AI智能体加速落地，谷歌在I/O 2026正式推出Gemini Spark个人AI代理，标志着行业进入Agentic AI时代；二是安全风险集中爆发，从CISA数据泄露、谷歌云远程代码执行，到NPM供应链攻击与FreeBSD内核漏洞，云环境、基础设施与软件供应链安全形势严峻；同时AI隐私滥用也引发监管关注，FTC对Cox Media“主动监听”AI开出近百万美元罚单'
 ---
 
 今日技术圈呈现两大核心议题：一是AI智能体加速落地，谷歌在I/O 2026正式推出Gemini Spark个人AI代理，标志着行业进入Agentic AI时代；二是安全风险集中爆发，从CISA数据泄露、谷歌云远程代码执行，到NPM供应链攻击与FreeBSD内核漏洞，云环境、基础设施与软件供应链安全形势严峻；同时AI隐私滥用也引发监管关注，FTC对Cox Media“主动监听”AI开出近百万美元罚单。

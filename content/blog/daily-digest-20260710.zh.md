@@ -5,7 +5,7 @@ tags: [文章摘要, 日报, llm, openai, chatgpt]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "今日AI模型领域持续迭代升级，OpenAI发布GPT-5.6系列（Luna、Terra、Sol三款），在Agents' Last Exam基准测试中刷新成绩，同时ChatGPT语音模式获重大升级；Meta也�"
+summary: '今日AI模型领域持续迭代升级，OpenAI发布GPT-5.6系列（Luna、Terra、Sol三款），在Agents'' Last Exam基准测试中刷新成绩，同时ChatGPT语音模式获重大升级；Meta也推出首个提供API的Spark模型Muse Spark 1.1，推动模型API化进程。工程层面，Bun为解决长期稳定性问题宣布从Zig重写为Rust，体现了实际生产环境中对可靠性的重视。此外，M'
 ---
 
 今日AI模型领域持续迭代升级，OpenAI发布GPT-5.6系列（Luna、Terra、Sol三款），在Agents' Last Exam基准测试中刷新成绩，同时ChatGPT语音模式获重大升级；Meta也推出首个提供API的Spark模型Muse Spark 1.1，推动模型API化进程。工程层面，Bun为解决长期稳定性问题宣布从Zig重写为Rust，体现了实际生产环境中对可靠性的重视。此外，Meta默认允许Instagram内容被AI复用的隐私争议仍在持续发酵。

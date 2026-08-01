@@ -5,7 +5,7 @@ tags: [文章摘要, 日报, python, browser, webassembly]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "今日技术圈关注三大趋势：AI安全领域持续发酵，提示注入攻击出现新型混淆手法，同时WorkOS推出首个AI代理身份认证规范；浏览器端侧AI模型加速落地�"
+summary: '今日技术圈关注三大趋势：AI安全领域持续发酵，提示注入攻击出现新型混淆手法，同时WorkOS推出首个AI代理身份认证规范；浏览器端侧AI模型加速落地，Moebius图像修复模型成功移植至浏览器运行；网络安全事件再有新进展，知名黑客组织Scattered Spider在审判首日认罪。'
 ---
 
 今日技术圈关注三大趋势：AI安全领域持续发酵，提示注入攻击出现新型混淆手法，同时WorkOS推出首个AI代理身份认证规范；浏览器端侧AI模型加速落地，Moebius图像修复模型成功移植至浏览器运行；网络安全事件再有新进展，知名黑客组织Scattered Spider在审判首日认罪。

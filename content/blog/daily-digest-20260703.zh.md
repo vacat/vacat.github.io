@@ -5,7 +5,7 @@ tags: [文章摘要, 日报, ai, windows, security]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "今日技术圈聚焦三大趋势：AI编程时代“理解力”反而成为开发者的新瓶颈，Geoffrey Litt指出AI放大了我们理解代码的能力而非替代它；Clickhouse在可观测�"
+summary: '今日技术圈聚焦三大趋势：AI编程时代“理解力”反而成为开发者的新瓶颈，Geoffrey Litt指出AI放大了我们理解代码的能力而非替代它；Clickhouse在可观测性领域持续扩张，逐步奠定行业地位；数据隐私与安全议题持续发酵，荷兰情报机构被曝对bulk datasets处理存在不当，引发数字化主权讨论。'
 ---
 
 今日技术圈聚焦三大趋势：AI编程时代“理解力”反而成为开发者的新瓶颈，Geoffrey Litt指出AI放大了我们理解代码的能力而非替代它；Clickhouse在可观测性领域持续扩张，逐步奠定行业地位；数据隐私与安全议题持续发酵，荷兰情报机构被曝对bulk datasets处理存在不当，引发数字化主权讨论。

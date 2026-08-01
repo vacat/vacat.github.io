@@ -5,7 +5,7 @@ tags: [文章摘要, 日报, anthropic, apple, datasette]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "今日AI圈焦点集中于监管与安全双重挑战：Anthropic因限制AI研究人员政策引发强烈反弹后致歉撤销，欧盟DMA法规更导致Siri AI功能延迟上线，凸显AI发展与�"
+summary: '今日AI圈焦点集中于监管与安全双重挑战：Anthropic因限制AI研究人员政策引发强烈反弹后致歉撤销，欧盟DMA法规更导致Siri AI功能延迟上线，凸显AI发展与隐私监管间的深层矛盾；与此同时，AI安全成为本周热点，安全研究员通过AI工具从Google获取50万美元漏洞赏金，而关于Section 230是否适用于AI公司的法律讨论也在升温。市场竞争层面，OpenAI考虑大幅降价预示AI大模型市'
 ---
 
 今日AI圈焦点集中于监管与安全双重挑战：Anthropic因限制AI研究人员政策引发强烈反弹后致歉撤销，欧盟DMA法规更导致Siri AI功能延迟上线，凸显AI发展与隐私监管间的深层矛盾；与此同时，AI安全成为本周热点，安全研究员通过AI工具从Google获取50万美元漏洞赏金，而关于Section 230是否适用于AI公司的法律讨论也在升温。市场竞争层面，OpenAI考虑大幅降价预示AI大模型市场进入价格战前夜，Datasette等开发者工具的持续迭代则展示AI辅助编程生态的稳步推进。

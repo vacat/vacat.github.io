@@ -5,7 +5,7 @@ tags: [文章摘要, 日报, apple intelligence, siri]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "今日技术圈呈现两大核心议题：苹果在WWDC上全面发力AI，Siri与Apple Intelligence系统将AI能力深度融入iOS生态，并强调隐私优先的云端架构；同时，安全形�"
+summary: '今日技术圈呈现两大核心议题：苹果在WWDC上全面发力AI，Siri与Apple Intelligence系统将AI能力深度融入iOS生态，并强调隐私优先的云端架构；同时，安全形势依然严峻，微软单月发布创纪录的200个漏洞补丁，OpenSSL再曝C语言内存安全漏洞，引发对传统代码安全性的警示。'
 ---
 
 今日技术圈呈现两大核心议题：苹果在WWDC上全面发力AI，Siri与Apple Intelligence系统将AI能力深度融入iOS生态，并强调隐私优先的云端架构；同时，安全形势依然严峻，微软单月发布创纪录的200个漏洞补丁，OpenSSL再曝C语言内存安全漏洞，引发对传统代码安全性的警示。

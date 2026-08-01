@@ -5,7 +5,7 @@ tags: [文章摘要, 日报, ai, apple intelligence, siri]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "今日技术圈焦点集中在AI领域：苹果在WWDC上正式推出Apple Intelligence系统，Siri全面升级为AI版本，同时Google因AI幻觉问题引发法律责任讨论，显示AI应用正�"
+summary: '今日技术圈焦点集中在AI领域：苹果在WWDC上正式推出Apple Intelligence系统，Siri全面升级为AI版本，同时Google因AI幻觉问题引发法律责任讨论，显示AI应用正从技术探索转向合规问责阶段。安全方面迎来创纪录的Patch Tuesday更新，修复大量漏洞。开发者工具层面，WorkOS发布auth.md开放协议，推动AI代理注册的标准化进程。'
 ---
 
 今日技术圈焦点集中在AI领域：苹果在WWDC上正式推出Apple Intelligence系统，Siri全面升级为AI版本，同时Google因AI幻觉问题引发法律责任讨论，显示AI应用正从技术探索转向合规问责阶段。安全方面迎来创纪录的Patch Tuesday更新，修复大量漏洞。开发者工具层面，WorkOS发布auth.md开放协议，推动AI代理注册的标准化进程。

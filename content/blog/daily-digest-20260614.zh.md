@@ -5,7 +5,7 @@ tags: [文章摘要, 日报, anthropic, ai, export control]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "今日看点：美国政府以国家安全为由向Anthropic下达出口管制指令，紧急暂停Fable 5和Mythos 5对所有外国人的访问权限，AI模型出口管制收紧信号明显；Apple�"
+summary: '今日看点：美国政府以国家安全为由向Anthropic下达出口管制指令，紧急暂停Fable 5和Mythos 5对所有外国人的访问权限，AI模型出口管制收紧信号明显；Apple在WWDC 2026上宣布的Private Cloud Compute对第三方开发者设限，引发生态争议；与此同时，硅谷科技公司加速IPO进程，OpenAI和Anthropic先后递交上市申请，行业面临流动性大考。'
 ---
 
 今日看点：美国政府以国家安全为由向Anthropic下达出口管制指令，紧急暂停Fable 5和Mythos 5对所有外国人的访问权限，AI模型出口管制收紧信号明显；Apple在WWDC 2026上宣布的Private Cloud Compute对第三方开发者设限，引发生态争议；与此同时，硅谷科技公司加速IPO进程，OpenAI和Anthropic先后递交上市申请，行业面临流动性大考。

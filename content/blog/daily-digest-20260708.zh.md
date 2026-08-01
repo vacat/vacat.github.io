@@ -5,7 +5,7 @@ tags: [文章摘要, 日报, sqlite-utils, python, database]
 categories: ["技术日报"]
 series: []
 featured: false
-summary: "AI开源大模型竞争加剧，GLM 5.2以GPT-4o仅15-20%的价格实现对标性能，腾讯发布2950亿参数的Hy3开源MoE模型，行业预计低价竞争将导致AI推理利润率大幅压缩�"
+summary: 'AI开源大模型竞争加剧，GLM 5.2以GPT-4o仅15-20%的价格实现对标性能，腾讯发布2950亿参数的Hy3开源MoE模型，行业预计低价竞争将导致AI推理利润率大幅压缩。SQLite工具链迎来重大更新，sqlite-utils 4.0首次支持数据库架构迁移和嵌套事务，推动SQLite在生产环境中的可用性提升。苹果系统层面持续迭代，iOS 27为Markdown引入统一类型标识符，并为Sir'
 ---
 
 AI开源大模型竞争加剧，GLM 5.2以GPT-4o仅15-20%的价格实现对标性能，腾讯发布2950亿参数的Hy3开源MoE模型，行业预计低价竞争将导致AI推理利润率大幅压缩。SQLite工具链迎来重大更新，sqlite-utils 4.0首次支持数据库架构迁移和嵌套事务，推动SQLite在生产环境中的可用性提升。苹果系统层面持续迭代，iOS 27为Markdown引入统一类型标识符，并为Siri AI新增语速与表达力自定义选项。
